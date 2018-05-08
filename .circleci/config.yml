@@ -9,6 +9,6 @@ jobs:
       - run: apt update
       # <https://stackoverflow.com/a/44333806/353337>
       - run: DEBIAN_FRONTEND=noninteractive apt install tzdata
-      - run: apt install -y gem
+      - run: apt install -y ruby
       - run: gem install awesome_bot
       - run: awesome_bot README.md
