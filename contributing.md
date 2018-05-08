@@ -1,5 +1,7 @@
 Ensure your pull request adheres to the following guidelines:
 
+- Only awesome is awesome. Only put stuff on the list that you or another
+  contributor can personally recommend.
 - **If you just created something, wait at least 30 days before submitting.**
   This is to give it some time to mature and ensure it's not just a
   publish-and-forget type of project.
