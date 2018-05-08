@@ -120,7 +120,7 @@ A curated list of awesome software for numerical analysis.
 
  - [mshr](https://bitbucket.org/fenics-project/mshr/) -
    The mesh generation component of FEniCS.
-   [Python, GPL 3, [BitBucket](https://bitbucket.org/fenics-project/mshr)]
+   [Python, GPL 3, BitBucket]
 
  - [MOAB](http://sigma.mcs.anl.gov/moab-library/) -
    Representing and evaluating mesh data.
@@ -150,12 +150,6 @@ A curated list of awesome software for numerical analysis.
    General purpose library for the direct solution of large, sparse,
    nonsymmetric systems of linear equations.
    [C, mostly BSD, [GitHub](https://github.com/xiaoyeli/superlu)]
-
- - [MUMPS](http://mumps.enseeiht.fr/) -
-   Solving systems of linear equations of the form Ax = b, where A is a square
-   sparse matrix that can be either unsymmetric, symmetric positive definite,
-   or general symmetric, on distributed memory computers.
-   [Fortran, CeCILL-C]
 
  - [KryPy](https://github.com/andrenarchy/krypy) -
    Krylov subspace methods for the solution of linear algebraic systems.
