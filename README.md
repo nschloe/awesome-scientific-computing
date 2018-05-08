@@ -1,5 +1,4 @@
-# Awesome Numerical Software
-[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Numerical Software [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome software for numerical analysis.
 
