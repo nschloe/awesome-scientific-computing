@@ -20,9 +20,7 @@ A curated list of awesome software for numerical analysis.
 
  - [BLAS](http://www.netlib.org/blas/)
    (Fortran, public domain) -
-   The BLAS (Basic Linear Algebra Subprograms) are
-   routines that provide standard building blocks for performing basic vector
-   and matrix operations.
+   Standard building blocks for performing basic vector and matrix operations.
 
  - [OpenBLAS](https://www.openblas.net/)
    (Fortran, BSD, [GitHub](https://github.com/xianyi/OpenBLAS)) -
@@ -41,8 +39,8 @@ A curated list of awesome software for numerical analysis.
 
  - [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page)
    (C++, MPL2, [BitBucket](https://bitbucket.org/eigen/eigen) (Mercurial)) -
-   C++ template library for linear algebra: matrices, vectors,
-   numerical solvers, and related algorithms.
+   C++ template library for linear algebra: matrices, vectors, numerical
+   solvers, and related algorithms.
 
 
 ## Frameworks
@@ -50,33 +48,27 @@ A curated list of awesome software for numerical analysis.
  - [PETSc](http://www.mcs.anl.gov/petsc/)
    (C, 2-clause BSD license, [BitBucket](https://bitbucket.org/petsc/petsc/src)) -
    Suite of data structures and routines for the scalable (parallel) solution
-   of scientific applications modeled by partial differential equations. It
-   supports MPI, and GPUs through CUDA or OpenCL, as well as hybrid MPI-GPU
-   parallelism.
+   of scientific applications modeled by partial differential equations.
 
  - [DUNE Numerics](https://www.dune-project.org/)
    (C++, GPL2, [GitLab](https://gitlab.dune-project.org/core/)) -
-   DUNE, the Distributed and Unified Numerics Environment is a modular toolbox
-   for solving partial differential equations (PDEs) with grid-based methods.
-   It supports the easy implementation of methods like Finite Elements (FE),
-   Finite Volumes (FV), and also Finite Differences (FD).
+   Modular toolbox for solving partial differential equations (PDEs) with
+   grid-based methods.
 
  - Trilinos
    (mostly C++, mostly BSD, [GitHub](https://github.com/trilinos/)) -
    Algorithms and enabling technologies within an object-oriented software
    framework for the solution of large-scale, complex multi-physics engineering
-   and scientific problems. A unique design feature of Trilinos is its focus on
-   packages.
+   and scientific problems.
 
  - [SciPy](https://www.scipy.org/)
    (Python, mostly BSD, [GitHub](https://github.com/scipy/scipy/)) -
-   Open-source software for mathematics, science, and engineering. It includes
-   modules for statistics, optimization, integration, linear algebra, Fourier
-   transforms, signal and image processing, ODE solvers, and more.
+   Python modules for statistics, optimization, integration, linear algebra,
+   Fourier transforms, signal and image processing, ODE solvers, and more.
 
  - [NumPy](http://www.numpy.org/)
    (Python, BSD, [GitHub](https://github.com/numpy/numpy)) -
-   NumPy is the fundamental package needed for scientific computing with Python.
+   Fundamental package needed for scientific computing with Python.
 
 
 ## Finite Elements
@@ -84,20 +76,18 @@ A curated list of awesome software for numerical analysis.
  - [FEniCS](https://fenicsproject.org/)
    (C++/Python, LGPLv3, [BitBucket](https://bitbucket.org/fenics-project/)) -
    Open-source computing platform for solving partial differential equations
-   (PDEs). FEniCS enables users to quickly translate scientific models into
-   efficient finite element code.
+   (PDEs).
 
  - [libMesh](https://libmesh.github.io/)
    (C++, LGPL 2.1, [GitHub](https://github.com/libMesh/libmesh)) -
-   A framework for the numerical simulation of partial differential equations
+   Framework for the numerical simulation of partial differential equations
    using arbitrary unstructured discretizations on serial and parallel
-   platforms. A major goal of the library is to provide support for adaptive
-   mesh refinement (AMR) computations in parallel.
+   platforms.
 
  - [deal.II](http://dealii.org/)
    (C++, LGPL 2.1, [GitHub](https://github.com/dealii/dealii)) -
-   A C++ software library supporting the creation of finite element codes and
-   an open community of users and developers.
+   Software library supporting the creation of finite element codes and an open
+   community of users and developers.
 
 
 ## Meshing
@@ -122,28 +112,24 @@ A curated list of awesome software for numerical analysis.
 
  - [CGAL](https://www.cgal.org/)
    (C++, mixed LGPL/GPL, [GitHub](https://github.com/CGAL/cgal)) -
-   The Computational Geometry Algorithms Library (CGAL) is a C++ library that
-   aims to provide easy access to efficient and reliable algorithms in
-   computational geometry.
-   Separate Python interfaces exist
+   Efficient and reliable algorithms in computational geometry.
+   Separate Python interfaces for meshing exist
    ([pygalmesh](https://github.com/nschloe/pygalmesh),
    [mshr](https://bitbucket.org/fenics-project/mshr/)).
 
  - [MOAB](http://sigma.mcs.anl.gov/moab-library/)
    (C++, mostly LGPL3, [BitBucket](https://bitbucket.org/fathomteam/moab/)) -
-   A component for representing and evaluating mesh data.
+   Representing and evaluating mesh data.
 
  - [NetCDF](https://www.unidata.ucar.edu/software/netcdf/)
    (C/C++/Fortran/Java/Python, [custom open source](https://www.unidata.ucar.edu/software/netcdf/copyright.html), [GitHub](https://github.com/Unidata/netcdf-c/)) -
-   NetCDF is a set of software libraries and self-describing,
-   machine-independent data formats that support the creation, access, and
-   sharing of array-oriented scientific data.
+   Software libraries and self-describing, machine-independent data formats
+   that support the creation, access, and sharing of array-oriented scientific
+   data.
 
  - [HDF5](https://support.hdfgroup.org/HDF5/)
    (C/Fortran, BSD) -
-   A data model, library, and file format for storing and managing data. It
-   supports an unlimited variety of data types, and is designed for flexible and
-   efficient I/O and for high volume and complex data.
+   Data model, library, and file format for storing and managing data.
 
  - [XDMF](http://www.xdmf.org/index.php/Main_Page)
    (C++, [GitLab](https://gitlab.kitware.com/xdmf/xdmf)) -
@@ -160,26 +146,22 @@ A curated list of awesome software for numerical analysis.
 
  - [MUMPS](http://mumps.enseeiht.fr/)
    (Fortran, CeCILL-C) -
-   MUltifrontal Massively Parallel Solver. A package for solving systems of
-   linear equations of the form Ax = b, where A is a square sparse matrix that
-   can be either unsymmetric, symmetric positive definite, or general
-   symmetric, on distributed memory computers.
+   Solving systems of linear equations of the form Ax = b, where A is a square
+   sparse matrix that can be either unsymmetric, symmetric positive definite,
+   or general symmetric, on distributed memory computers.
 
  - KryPy
    (Python, MIT, [GitHub](https://github.com/andrenarchy/krypy)) -
-   Module for Krylov subspace methods for the solution of linear algebraic
-   systems. This includes enhanced versions of CG, MINRES and GMRES as well as
-   methods for the efficient solution of sequences of linear systems.
+   Krylov subspace methods for the solution of linear algebraic systems.
 
 
 ## Miscellaneous
 
  - [FFTW](http://www.fftw.org/)
    (C, GPL2, [GitHub](https://github.com/FFTW/fftw3)) -
-   Library for computing the discrete Fourier transform (DFT) in one or more
-   dimensions, of arbitrary input size, and of both real and complex data (as
-   well as of even/odd data, i.e. the discrete cosine/sine transforms or
-   DCT/DST).
+   Computes the discrete Fourier transform (DFT) in one or more dimensions, of
+   arbitrary input size, and of both real and complex data (as well as of
+   even/odd data, i.e. the discrete cosine/sine transforms or DCT/DST).
 
  - [Qhull](http://www.qhull.org/)
    (C/C++, [custom open source license](http://www.qhull.org/COPYING.txt), [GitHub](https://github.com/qhull/qhull/)) -
@@ -189,9 +171,9 @@ A curated list of awesome software for numerical analysis.
 
  - [GSL](https://www.gnu.org/software/gsl/)
    (C/C++, GPL, [Savannah](https://savannah.gnu.org/projects/gsl)) -
-   Provides a wide range of mathematical routines such as random number
-   generators, special functions and least-squares fitting. There are over 1000
-   functions in total.
+   Wide range of mathematical routines such as random number generators,
+   special functions and least-squares fitting. There are over 1000 functions
+   in total.
 
  - [OpenFOAM](https://www.openfoam.com/)
    (C++, GPL3, [GitHub](https://github.com/OpenFOAM/OpenFOAM-dev)) -
