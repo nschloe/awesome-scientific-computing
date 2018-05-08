@@ -7,6 +7,6 @@ jobs:
       - image: ubuntu:18.04
     steps:
       - run: apt update
-      - run: apt install gem
+      - run: apt install -y gem
       - run: gem install awesome_bot
       - run: awesome_bot README.md
