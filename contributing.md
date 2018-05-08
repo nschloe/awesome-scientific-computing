@@ -11,7 +11,8 @@ Ensure your pull request adheres to the following guidelines:
   duplicate.
 - Suggested packages should be tested and documented.
 - Make an individual pull request for each suggestion.
-- Use the following format: `[package](link) (language, license, repo) - Description.`
+- Use the following format:
+  `[package](link) - Description. [language, license, repo]`
 - Additions should be added to the bottom of the relevant category.
 - Keep descriptions short and simple, but descriptive.
 - Start the description with a capital and end with a full stop/period.

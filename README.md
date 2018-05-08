@@ -15,179 +15,190 @@ A curated list of awesome software for numerical analysis.
 
 ## Basic linear algebra
 
- - [BLAS](http://www.netlib.org/blas/)
-   (Fortran, public domain) -
+ - [BLAS](http://www.netlib.org/blas/) -
    Standard building blocks for performing basic vector and matrix operations.
+   [Fortran, public domain]
 
- - [OpenBLAS](https://www.openblas.net/)
-   (Fortran, BSD, [GitHub](https://github.com/xianyi/OpenBLAS)) -
+ - [OpenBLAS](https://www.openblas.net/) -
    Optimized BLAS library based on GotoBLAS2.
+   [Fortran, BSD, [GitHub](https://github.com/xianyi/OpenBLAS)]
 
- - BLIS
-   (C++, BSD, [GitHub](https://github.com/flame/blis)) -
+ - [BLIS](https://github.com/flame/blis) -
    Portable software framework for instantiating high-performance BLAS-like
    dense linear algebra libraries.
+   [C++, BSD, GitHub]
 
- - [LAPACK](http://www.netlib.org/lapack/)
-   (Fortran, BSD, [GitHub](https://github.com/Reference-LAPACK/lapack)) -
+ - [LAPACK](http://www.netlib.org/lapack/) -
    Routines for solving systems of simultaneous linear equations, least-squares
    solutions of linear systems of equations, eigenvalue problems, and singular
    value problems.
+   [Fortran, BSD, [GitHub](https://github.com/Reference-LAPACK/lapack)]
 
- - [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page)
-   (C++, MPL2, [BitBucket](https://bitbucket.org/eigen/eigen)) -
+ - [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) -
    C++ template library for linear algebra: matrices, vectors, numerical
    solvers, and related algorithms.
+   [C++, MPL 2, [BitBucket](https://bitbucket.org/eigen/eigen)]
 
 
 ## Frameworks
 
- - [PETSc](http://www.mcs.anl.gov/petsc/)
-   (C, 2-clause BSD license, [BitBucket](https://bitbucket.org/petsc/petsc/src)) -
+ - [PETSc](http://www.mcs.anl.gov/petsc/) -
    Suite of data structures and routines for the scalable (parallel) solution
    of scientific applications modeled by partial differential equations.
+   [C, 2-clause BSD, [BitBucket](https://bitbucket.org/petsc/petsc/src)]
 
- - [DUNE Numerics](https://www.dune-project.org/)
-   (C++, GPL2, [GitLab](https://gitlab.dune-project.org/core/)) -
+ - [DUNE Numerics](https://www.dune-project.org/) -
    Modular toolbox for solving partial differential equations (PDEs) with
    grid-based methods.
+   [C++, GPL 2, [GitLab](https://gitlab.dune-project.org/core/)]
 
- - Trilinos
-   (mostly C++, mostly BSD, [GitHub](https://github.com/trilinos/)) -
+ - [Trilinos](https://trilinos.org/) -
    Algorithms and enabling technologies within an object-oriented software
    framework for the solution of large-scale, complex multi-physics engineering
    and scientific problems.
+   [mostly C++, mostly BSD, [GitHub](https://github.com/trilinos/)]
 
- - [SciPy](https://www.scipy.org/)
-   (Python, mostly BSD, [GitHub](https://github.com/scipy/scipy/)) -
+ - [SciPy](https://www.scipy.org/) -
    Python modules for statistics, optimization, integration, linear algebra,
    Fourier transforms, signal and image processing, ODE solvers, and more.
+   [Python, mostly BSD, [GitHub](https://github.com/scipy/scipy/)]
 
- - [NumPy](http://www.numpy.org/)
-   (Python, BSD, [GitHub](https://github.com/numpy/numpy)) -
+ - [NumPy](http://www.numpy.org/) -
    Fundamental package needed for scientific computing with Python.
+   [Python, BSD, [GitHub](https://github.com/numpy/numpy)]
 
 
 ## Finite Elements
 
- - [FEniCS](https://fenicsproject.org/)
-   (C++/Python, LGPLv3, [BitBucket](https://bitbucket.org/fenics-project/)) -
+ - [FEniCS](https://fenicsproject.org/) -
    Open-source computing platform for solving partial differential equations
-   (PDEs).
+   with Python and C++ interfaces.
+   [C++/Python, LGPL 3, [BitBucket](https://bitbucket.org/fenics-project/)]
 
- - [libMesh](https://libmesh.github.io/)
-   (C++, LGPL 2.1, [GitHub](https://github.com/libMesh/libmesh)) -
+ - [libMesh](https://libmesh.github.io/) -
    Framework for the numerical simulation of partial differential equations
    using arbitrary unstructured discretizations on serial and parallel
    platforms.
+   [C++, LGPL 2.1, [GitHub](https://github.com/libMesh/libmesh)]
 
- - [deal.II](http://dealii.org/)
-   (C++, LGPL 2.1, [GitHub](https://github.com/dealii/dealii)) -
+ - [deal.II](http://dealii.org/) -
    Software library supporting the creation of finite element codes and an open
    community of users and developers.
+   [C++, LGPL 2.1, [GitHub](https://github.com/dealii/dealii)]
+
+ - [Netgen/NGSolve](https://ngsolve.org/)
+   High performance multiphysics finite element software.
+   [C++, LGPL 2.1, [GitHub](https://github.com/NGSolve/netgen)]
 
 
 ## Meshing
 
- - [gmsh](http://gmsh.info/)
-   (C++, GPL, [GitLab](https://gitlab.onelab.info/gmsh/gmsh)) -
+ - [Gmsh](http://gmsh.info/) -
    Three-dimensional finite element mesh generator with built-in pre- and
    post-processing facilities.
-   [A separate Python interface exists.](https://github.com/nschloe/pygmsh)
+   [C++, GPL, [GitLab](https://gitlab.onelab.info/gmsh/gmsh)]
 
- - [MeshPy](https://mathema.tician.de/software/meshpy/)
-   (Python, MIT, [GitHub](https://github.com/inducer/meshpy)) -
+ - [pygmsh](https://github.com/nschloe/pygmsh) -
+   Python interface for Gmsh.
+   [Python, MIT, GitHub]
+
+ - [MeshPy](https://mathema.tician.de/software/meshpy/) -
    Quality triangular and tetrahedral mesh generation.
+   [Python, MIT, [GitHub](https://github.com/inducer/meshpy)]
 
- - [Netgen/NGSolve](https://ngsolve.org/)
-   (C++, LGPL 2.1, [GitHub](https://github.com/NGSolve/netgen)) -
-   High performance multiphysics finite element software.
-
- - meshio
-   (Python, MIT, [GitHub](https://github.com/nschloe/meshio)) -
+ - [meshio](https://github.com/nschloe/meshio) -
    I/O for various mesh formats, file conversion.
+   [Python, MIT, GitHub]
 
- - [CGAL](https://www.cgal.org/)
-   (C++, mixed LGPL/GPL, [GitHub](https://github.com/CGAL/cgal)) -
+ - [CGAL](https://www.cgal.org/) -
    Efficient and reliable algorithms in computational geometry.
-   Separate Python interfaces for meshing exist
-   ([pygalmesh](https://github.com/nschloe/pygalmesh),
-   [mshr](https://bitbucket.org/fenics-project/mshr/)).
+   [C++, mixed LGPL/GPL, [GitHub](https://github.com/CGAL/cgal)]
 
- - [MOAB](http://sigma.mcs.anl.gov/moab-library/)
-   (C++, mostly LGPL3, [BitBucket](https://bitbucket.org/fathomteam/moab/)) -
+ - [pygalmesh](https://github.com/nschloe/pygalmesh) -
+   Python interface for CGAL's 3D meshing capabilities.
+   [Python, MIT, GitHub]
+
+ - [mshr](https://bitbucket.org/fenics-project/mshr/) -
+   The mesh generation component of FEniCS.
+   [Python, GPL 3, [BitBucket](https://bitbucket.org/fenics-project/mshr)]
+
+ - [MOAB](http://sigma.mcs.anl.gov/moab-library/) -
    Representing and evaluating mesh data.
+   [C++, mostly LGPL3, [BitBucket](https://bitbucket.org/fathomteam/moab/)]
 
- - [NetCDF](https://www.unidata.ucar.edu/software/netcdf/)
-   (C/C++/Fortran/Java/Python, [custom open source](https://www.unidata.ucar.edu/software/netcdf/copyright.html), [GitHub](https://github.com/Unidata/netcdf-c/)) -
+ - [NetCDF](https://www.unidata.ucar.edu/software/netcdf/) -
    Software libraries and self-describing, machine-independent data formats
    that support the creation, access, and sharing of array-oriented scientific
    data.
+   [C/C++/Fortran/Java/Python, [custom open
+   source license](https://www.unidata.ucar.edu/software/netcdf/copyright.html),
+   [GitHub](https://github.com/Unidata/netcdf-c/)]
 
- - [HDF5](https://support.hdfgroup.org/HDF5/)
-   (C/Fortran, BSD) -
+ - [HDF5](https://support.hdfgroup.org/HDF5/) -
    Data model, library, and file format for storing and managing data.
+   [C/Fortran, BSD]
 
- - [XDMF](http://www.xdmf.org/index.php/Main_Page)
-   (C++, [GitLab](https://gitlab.kitware.com/xdmf/xdmf)) -
+ - [XDMF](http://www.xdmf.org/index.php/Main_Page) -
    eXtensible Data Model and Format to exchange scientific data between High
    Performance Computing codes and tools.
+   [C++, [GitLab](https://gitlab.kitware.com/xdmf/xdmf)]
 
 
 ## Sparse linear solvers
 
- - [SuperLU](http://crd-legacy.lbl.gov/~xiaoye/SuperLU/)
-   (C, mostly BSD, [GitHub](https://github.com/xiaoyeli/superlu)) -
+ - [SuperLU](http://crd-legacy.lbl.gov/~xiaoye/SuperLU/) -
    General purpose library for the direct solution of large, sparse,
    nonsymmetric systems of linear equations.
+   [C, mostly BSD, [GitHub](https://github.com/xiaoyeli/superlu)]
 
- - [MUMPS](http://mumps.enseeiht.fr/)
-   (Fortran, CeCILL-C) -
+ - [MUMPS](http://mumps.enseeiht.fr/) -
    Solving systems of linear equations of the form Ax = b, where A is a square
    sparse matrix that can be either unsymmetric, symmetric positive definite,
    or general symmetric, on distributed memory computers.
+   [Fortran, CeCILL-C]
 
- - KryPy
-   (Python, MIT, [GitHub](https://github.com/andrenarchy/krypy)) -
+ - [KryPy](https://github.com/andrenarchy/krypy) -
    Krylov subspace methods for the solution of linear algebraic systems.
+   [Python, MIT, GitHub]
 
 
 ## Miscellaneous
 
- - [FFTW](http://www.fftw.org/)
-   (C, GPL2, [GitHub](https://github.com/FFTW/fftw3)) -
+ - [FFTW](http://www.fftw.org/) -
    Computes the discrete Fourier transform (DFT) in one or more dimensions, of
    arbitrary input size, and of both real and complex data (as well as of
    even/odd data, i.e. the discrete cosine/sine transforms or DCT/DST).
+   [C, GPL2, [GitHub](https://github.com/FFTW/fftw3)]
 
- - [Qhull](http://www.qhull.org/)
-   (C/C++, [custom open source license](http://www.qhull.org/COPYING.txt), [GitHub](https://github.com/qhull/qhull/)) -
+ - [Qhull](http://www.qhull.org/) -
    Computes the convex hull, Delaunay triangulation, Voronoi diagram, halfspace
    intersection about a point, furthest-site Delaunay triangulation, and
    furthest-site Voronoi diagram.
+   [C/C++, [custom open source license](http://www.qhull.org/COPYING.txt),
+   [GitHub](https://github.com/qhull/qhull/)]
 
- - [GSL](https://www.gnu.org/software/gsl/)
-   (C/C++, GPL, [Savannah](https://savannah.gnu.org/projects/gsl)) -
+ - [GSL](https://www.gnu.org/software/gsl/) -
    Wide range of mathematical routines such as random number generators,
    special functions and least-squares fitting. There are over 1000 functions
    in total.
+   [C/C++, GPL 3, [Savannah](https://savannah.gnu.org/projects/gsl)]
 
- - [OpenFOAM](https://www.openfoam.com/)
-   (C++, GPL3, [GitHub](https://github.com/OpenFOAM/OpenFOAM-dev)) -
+ - [OpenFOAM](https://www.openfoam.com/) -
    Free, open source CFD (computational fluid dynamics) software.
+   [C++, GPL 3, [GitHub](https://github.com/OpenFOAM/OpenFOAM-dev)]
 
- - [ParaView](https://www.paraview.org/)
-   (C++, BSD, [GitLab](https://gitlab.kitware.com/paraview/paraview)) -
+ - [ParaView](https://www.paraview.org/) -
    Open-source, multi-platform data analysis and visualization application
    based on Visualization Toolkit (VTK).
+   [C++, BSD, [GitLab](https://gitlab.kitware.com/paraview/paraview)]
 
- - [PyAMG](https://pyamg.github.io/)
-   (Python, MIT, [GitHub](https://github.com/pyamg/pyamg)) -
+ - [PyAMG](https://pyamg.github.io/) -
    Algebraic Multigrid Solvers in Python.
+   [Python, MIT, [GitHub](https://github.com/pyamg/pyamg)]
 
- - quadpy
-   (Pyhon, MIT, [GitHub](https://github.com/nschloe/quadpy)) -
+ - [quadpy](https://github.com/nschloe/quadpy) -
    Numerical integration (quadrature, cubature) in Python.
+   [Python, MIT, GitHub]
 
 
 ## License

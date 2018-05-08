@@ -10,4 +10,5 @@ jobs:
       - run: apt install -y ruby
       - run: gem install awesome_bot
       - checkout
-      - run: awesome_bot ~/work/README.md
+      # Allow SSL errors for Trilinos
+      - run: awesome_bot --allow-ssl ~/work/README.md
