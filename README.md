@@ -1,6 +1,7 @@
 # Awesome Numerical Software
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
+[![CircleCI](https://img.shields.io/circleci/project/github/nschloe/awesome-numerical-software/master.svg)](https://circleci.com/gh/nschloe/awesome-numerical-software/tree/master)
 
 A curated list of awesome software for numerical analysis.
 
@@ -28,7 +29,7 @@ A curated list of awesome software for numerical analysis.
    Optimized BLAS library based on GotoBLAS2.
 
  - [BLIS](https://github.com/flame/blis)
-   (C++, BSD, [GitHub](https://github.com/flame/blis)) -
+   (C++, BSD, GitHub) -
    Portable software framework for instantiating high-performance BLAS-like
    dense linear algebra libraries.
 
@@ -46,7 +47,7 @@ A curated list of awesome software for numerical analysis.
 
 ## Frameworks
 
- - [PETSc](https://www.mcs.anl.gov/petsc/)
+ - [PETSc](http://www.mcs.anl.gov/petsc/)
    (C, 2-clause BSD license, [BitBucket](https://bitbucket.org/petsc/petsc/src)) -
    Suite of data structures and routines for the scalable (parallel) solution
    of scientific applications modeled by partial differential equations. It
@@ -60,7 +61,7 @@ A curated list of awesome software for numerical analysis.
    It supports the easy implementation of methods like Finite Elements (FE),
    Finite Volumes (FV), and also Finite Differences (FD).
 
- - [Trilinos](https://trilinos.org/)
+ - Trilinos
    (mostly C++, mostly BSD, [GitHub](https://github.com/trilinos/)) -
    Algorithms and enabling technologies within an object-oriented software
    framework for the solution of large-scale, complex multi-physics engineering
@@ -111,11 +112,11 @@ A curated list of awesome software for numerical analysis.
    (Python, MIT, [GitHub](https://github.com/inducer/meshpy)) -
    Quality triangular and tetrahedral mesh generation.
 
- - [Netgen](https://github.com/NGSolve/netgen)
-   (C++ LGPL 2.1, [GitHub](https://github.com/NGSolve/netgen)) -
-   Automatic 3D tetrahedral mesh generator.
+ - [Netgen/NGSolve](https://ngsolve.org/)
+   (C++, LGPL 2.1, [GitHub](https://github.com/NGSolve/netgen)) -
+   High performance multiphysics finite element software.
 
- - [meshio](https://github.com/nschloe/meshio)
+ - meshio
    (Python, MIT, [GitHub](https://github.com/nschloe/meshio)) -
    I/O for various mesh formats, file conversion.
 
@@ -144,7 +145,7 @@ A curated list of awesome software for numerical analysis.
    supports an unlimited variety of data types, and is designed for flexible and
    efficient I/O and for high volume and complex data.
 
- - [XDMF](http://www.xdmf.org)
+ - [XDMF](http://www.xdmf.org/index.php/Main_Page)
    (C++, [GitLab](https://gitlab.kitware.com/xdmf/xdmf)) -
    eXtensible Data Model and Format to exchange scientific data between High
    Performance Computing codes and tools.
@@ -164,7 +165,7 @@ A curated list of awesome software for numerical analysis.
    can be either unsymmetric, symmetric positive definite, or general
    symmetric, on distributed memory computers.
 
- - [KryPy](https://github.com/andrenarchy/krypy)
+ - KryPy
    (Python, MIT, [GitHub](https://github.com/andrenarchy/krypy)) -
    Module for Krylov subspace methods for the solution of linear algebraic
    systems. This includes enhanced versions of CG, MINRES and GMRES as well as
@@ -205,7 +206,7 @@ A curated list of awesome software for numerical analysis.
    (Python, MIT, [GitHub](https://github.com/pyamg/pyamg)) -
    Algebraic Multigrid Solvers in Python.
 
- - [quadpy](https://github.com/nschloe/quadpy)
+ - quadpy
    (Pyhon, MIT, [GitHub](https://github.com/nschloe/quadpy)) -
    Numerical integration (quadrature, cubature) in Python.
 

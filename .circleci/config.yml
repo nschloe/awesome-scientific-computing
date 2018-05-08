@@ -1,0 +1,10 @@
+version: 2
+
+jobs:
+  build:
+    working_directory: ~/work
+    docker:
+      - image: ubuntu:18.04
+    steps:
+      - run: gem install awesome_bot
+      - run: awesome_bot README.md
