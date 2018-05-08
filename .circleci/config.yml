@@ -11,4 +11,4 @@ jobs:
       - run: DEBIAN_FRONTEND=noninteractive apt install tzdata
       - run: apt install -y ruby
       - run: gem install awesome_bot
-      - run: awesome_bot README.md
+      - run: awesome_bot ~/work/README.md
