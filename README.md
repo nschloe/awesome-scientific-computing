@@ -26,8 +26,8 @@ A curated list of awesome software for numerical analysis.
    (Fortran, BSD, [GitHub](https://github.com/xianyi/OpenBLAS)) -
    Optimized BLAS library based on GotoBLAS2.
 
- - [BLIS](https://github.com/flame/blis)
-   (C++, BSD, GitHub) -
+ - BLIS
+   (C++, BSD, [GitHub](https://github.com/flame/blis)) -
    Portable software framework for instantiating high-performance BLAS-like
    dense linear algebra libraries.
 
@@ -38,7 +38,7 @@ A curated list of awesome software for numerical analysis.
    value problems.
 
  - [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page)
-   (C++, MPL2, [BitBucket](https://bitbucket.org/eigen/eigen) (Mercurial)) -
+   (C++, MPL2, [BitBucket](https://bitbucket.org/eigen/eigen)) -
    C++ template library for linear algebra: matrices, vectors, numerical
    solvers, and related algorithms.
 
