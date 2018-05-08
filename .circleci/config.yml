@@ -7,8 +7,6 @@ jobs:
       - image: ubuntu:18.04
     steps:
       - run: apt update
-      # <https://stackoverflow.com/a/44333806/353337>
-      - run: DEBIAN_FRONTEND=noninteractive apt install tzdata
       - run: apt install -y ruby
       - run: gem install awesome_bot
       - checkout
