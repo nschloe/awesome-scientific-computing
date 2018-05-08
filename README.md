@@ -17,7 +17,7 @@ A curated list of awesome software for numerical analysis.
 
  - [BLAS](http://www.netlib.org/blas/) -
    Standard building blocks for performing basic vector and matrix operations.
-   [Fortran, public domain]
+   [Fortran, public domain, [GitHub](https://github.com/Reference-LAPACK/lapack/tree/master/BLAS)]
 
  - [OpenBLAS](https://www.openblas.net/) -
    Optimized BLAS library based on GotoBLAS2.
