@@ -1,5 +1,7 @@
 # Awesome Numerical Software
 
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
 A curated list of awesome software for numerical analysis.
 
 
@@ -96,11 +98,6 @@ A curated list of awesome software for numerical analysis.
    A C++ software library supporting the creation of finite element codes and
    an open community of users and developers.
 
- - [FreeFem++](http://www.freefem.org/)
-   (C++, LGPL 2.1, [GitHub](https://github.com/FreeFem/FreeFem-sources)).
-   Partial differential equation solver. It has its own language. freefem
-   scripts can solve multiphysics non linear systems in 2D and 3D.
-
 
 ## Meshing
 
@@ -190,11 +187,6 @@ A curated list of awesome software for numerical analysis.
    Computes the convex hull, Delaunay triangulation, Voronoi diagram, halfspace
    intersection about a point, furthest-site Delaunay triangulation, and
    furthest-site Voronoi diagram.
-
- - [GNU Octave](https://www.gnu.org/software/octave/)
-   (GPL).
-   Powerful mathematics-oriented syntax with built-in plotting and
-   visualization tools. Free and open-source MATLAB clone.
 
  - [GSL](https://www.gnu.org/software/gsl/)
    (C/C++, GPL, [Savannah](https://savannah.gnu.org/projects/gsl)).
