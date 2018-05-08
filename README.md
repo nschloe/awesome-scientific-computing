@@ -1,7 +1,5 @@
 # Awesome Numerical Software
-
 [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
-[![CircleCI](https://img.shields.io/circleci/project/github/nschloe/awesome-numerical-software/master.svg)](https://circleci.com/gh/nschloe/awesome-numerical-software/tree/master)
 
 A curated list of awesome software for numerical analysis.
 
