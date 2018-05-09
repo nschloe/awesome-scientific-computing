@@ -156,7 +156,7 @@ A curated list of awesome software for numerical analysis.
    Quality Tetrahedral Mesh Generator and a 3D Delaunay Triangulator.
    [C++, AGPLv3]
 
- - [Triangle](https://www.cs.cmu.edu/~quake/triangle.html)
+ - [Triangle](https://www.cs.cmu.edu/~quake/triangle.html) -
    Two-Dimensional Quality Mesh Generator and Delaunay Triangulator.
    [C, *nonfree software*]
 
