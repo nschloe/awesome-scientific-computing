@@ -95,6 +95,10 @@ A curated list of awesome software for numerical analysis.
    differential equations using the finite element method (FEM).
    [Python, LGPL 3, [GitHub](https://github.com/firedrakeproject/firedrake)]
 
+ - [MOOSE](http://www.mooseframework.org) -
+   Multiphysics Object Oriented Simulation Environment.
+   [C/Python, LGPL 2.1, [GitHub](https://github.com/idaholab/moose)]
+
 ## Meshing
 
  - [Gmsh](http://gmsh.info/) -
