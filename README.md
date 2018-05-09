@@ -86,10 +86,14 @@ A curated list of awesome software for numerical analysis.
    community of users and developers.
    [C++, LGPL 2.1, [GitHub](https://github.com/dealii/dealii)]
 
- - [Netgen/NGSolve](https://ngsolve.org/)
+ - [Netgen/NGSolve](https://ngsolve.org/) -
    High performance multiphysics finite element software.
    [C++, LGPL 2.1, [GitHub](https://github.com/NGSolve/netgen)]
 
+ - [Firedrake](https://www.firedrakeproject.org/) -
+   Automated system for the portable solution of partial
+   differential equations using the finite element method (FEM).
+   [Python, LGPL 3, [GitHub](https://github.com/firedrakeproject/firedrake)]
 
 ## Meshing
 
