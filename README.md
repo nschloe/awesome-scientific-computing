@@ -99,6 +99,7 @@ A curated list of awesome software for numerical analysis.
    Multiphysics Object Oriented Simulation Environment.
    [C/Python, LGPL 2.1, [GitHub](https://github.com/idaholab/moose)]
 
+
 ## Meshing
 
  - [Gmsh](http://gmsh.info/) -
@@ -154,6 +155,10 @@ A curated list of awesome software for numerical analysis.
  - [TetGen](http://wias-berlin.de/software/index.jsp?id=TetGen) -
    Quality Tetrahedral Mesh Generator and a 3D Delaunay Triangulator.
    [C++, AGPLv3]
+
+ - [Triangle](https://www.cs.cmu.edu/~quake/triangle.html)
+   Two-Dimensional Quality Mesh Generator and Delaunay Triangulator.
+   [C, *nonfree software*]
 
 
 ## Sparse linear solvers
