@@ -151,6 +151,10 @@ A curated list of awesome software for numerical analysis.
    Performance Computing codes and tools.
    [C++, [GitLab](https://gitlab.kitware.com/xdmf/xdmf)]
 
+ - [TetGen](http://wias-berlin.de/software/index.jsp?id=TetGen) -
+   Quality Tetrahedral Mesh Generator and a 3D Delaunay Triangulator.
+   [C++, AGPLv3]
+
 
 ## Sparse linear solvers
 
