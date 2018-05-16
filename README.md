@@ -48,14 +48,13 @@ A curated list of awesome software for numerical analysis.
    [C, 2-clause BSD, [BitBucket](https://bitbucket.org/petsc/petsc/src)]
 
  - [DUNE Numerics](https://www.dune-project.org/) -
-   Modular toolbox for solving partial differential equations (PDEs) with
-   grid-based methods.
+   Modular toolbox for solving partial differential equations with grid-based
+   methods.
    [C++, GPL 2, [GitLab](https://gitlab.dune-project.org/core/)]
 
  - [Trilinos](https://trilinos.org/) -
-   Algorithms and enabling technologies within an object-oriented software
-   framework for the solution of large-scale, complex multi-physics engineering
-   and scientific problems.
+   Algorithms and enabling technologies for the solution of large-scale,
+   complex multi-physics engineering and scientific problems.
    [mostly C++, mostly BSD, [GitHub](https://github.com/trilinos/)]
 
  - [SciPy](https://www.scipy.org/) -
@@ -91,8 +90,8 @@ A curated list of awesome software for numerical analysis.
    [C++, LGPL 2.1, [GitHub](https://github.com/NGSolve/netgen)]
 
  - [Firedrake](https://www.firedrakeproject.org/) -
-   Automated system for the portable solution of partial
-   differential equations using the finite element method (FEM).
+   Automated system for the portable solution of partial differential equations
+   using the finite element method.
    [Python, LGPL 3, [GitHub](https://github.com/firedrakeproject/firedrake)]
 
  - [MOOSE](http://www.mooseframework.org) -
@@ -136,9 +135,8 @@ A curated list of awesome software for numerical analysis.
    [C++, mostly LGPL3, [BitBucket](https://bitbucket.org/fathomteam/moab/)]
 
  - [NetCDF](https://www.unidata.ucar.edu/software/netcdf/) -
-   Software libraries and self-describing, machine-independent data formats
-   that support the creation, access, and sharing of array-oriented scientific
-   data.
+   Software libraries and data formats for the creation, access, and sharing of
+   array-oriented scientific data.
    [C/C++/Fortran/Java/Python, [custom open
    source license](https://www.unidata.ucar.edu/software/netcdf/copyright.html),
    [GitHub](https://github.com/Unidata/netcdf-c/)]
@@ -176,9 +174,8 @@ A curated list of awesome software for numerical analysis.
 ## Miscellaneous
 
  - [FFTW](http://www.fftw.org/) -
-   Computes the discrete Fourier transform (DFT) in one or more dimensions, of
-   arbitrary input size, and of both real and complex data (as well as of
-   even/odd data, i.e. the discrete cosine/sine transforms or DCT/DST).
+   Computes the discrete Fourier transform in one or more dimensions, of
+   arbitrary input size, and of both real and complex data.
    [C, GPL2, [GitHub](https://github.com/FFTW/fftw3)]
 
  - [Qhull](http://www.qhull.org/) -
@@ -190,8 +187,7 @@ A curated list of awesome software for numerical analysis.
 
  - [GSL](https://www.gnu.org/software/gsl/) -
    Wide range of mathematical routines such as random number generators,
-   special functions and least-squares fitting. There are over 1000 functions
-   in total.
+   special functions, and least-squares fitting.
    [C/C++, GPL 3, [Savannah](https://savannah.gnu.org/projects/gsl)]
 
  - [OpenFOAM](https://www.openfoam.com/) -
