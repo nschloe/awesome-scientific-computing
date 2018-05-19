@@ -98,7 +98,6 @@ A curated list of awesome software for numerical analysis.
    Multiphysics Object Oriented Simulation Environment.
    [C/Python, LGPL 2.1, [GitHub](https://github.com/idaholab/moose)]
 
-
 ## Meshing
 
  - [Gmsh](http://gmsh.info/) -
@@ -137,8 +136,8 @@ A curated list of awesome software for numerical analysis.
  - [NetCDF](https://www.unidata.ucar.edu/software/netcdf/) -
    Software libraries and data formats for the creation, access, and sharing of
    array-oriented scientific data.
-   [C/C++/Fortran/Java/Python, [custom open
-   source license](https://www.unidata.ucar.edu/software/netcdf/copyright.html),
+   [C/C++/Fortran/Java/Python, [custom open-source
+   license](https://www.unidata.ucar.edu/software/netcdf/copyright.html),
    [GitHub](https://github.com/Unidata/netcdf-c/)]
 
  - [HDF5](https://support.hdfgroup.org/HDF5/) -
@@ -206,6 +205,12 @@ A curated list of awesome software for numerical analysis.
  - [quadpy](https://github.com/nschloe/quadpy) -
    Numerical integration (quadrature, cubature) in Python.
    [Python, MIT, GitHub]
+
+ - [FiPy](https://www.ctcms.nist.gov/fipy/) -
+   Finite-volume PDF solver.
+   [Python, [custom open-source
+   license](https://www.nist.gov/director/copyright-fair-use-and-licensing-statements-srd-data-and-software),
+   [GitHub](https://github.com/usnistgov/fipy)]
 
 
 ## License
