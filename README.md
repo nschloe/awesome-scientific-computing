@@ -98,6 +98,11 @@ A curated list of awesome software for numerical analysis.
    Multiphysics Object Oriented Simulation Environment.
    [C/Python, LGPL 2.1, [GitHub](https://github.com/idaholab/moose)]
 
+ - [MFEM](http://mfem.org/) -
+   Free, lightweight, scalable C++ library for finite element methods.
+   [C++, LGPL 2.1, [GitHub](https://github.com/mfem/mfem)]
+
+
 ## Meshing
 
  - [Gmsh](http://gmsh.info/) -
