@@ -174,6 +174,10 @@ A curated list of awesome software for numerical analysis.
    Krylov subspace methods for the solution of linear algebraic systems.
    [Python, MIT, GitHub]
 
+ - [PyAMG](https://pyamg.github.io/) -
+   Algebraic Multigrid Solvers in Python.
+   [Python, MIT, [GitHub](https://github.com/pyamg/pyamg)]
+
 
 ## Miscellaneous
 
@@ -200,12 +204,8 @@ A curated list of awesome software for numerical analysis.
 
  - [ParaView](https://www.paraview.org/) -
    Open-source, multi-platform data analysis and visualization application
-   based on Visualization Toolkit (VTK).
+   based on VTK.
    [C++, BSD, [GitLab](https://gitlab.kitware.com/paraview/paraview)]
-
- - [PyAMG](https://pyamg.github.io/) -
-   Algebraic Multigrid Solvers in Python.
-   [Python, MIT, [GitHub](https://github.com/pyamg/pyamg)]
 
  - [quadpy](https://github.com/nschloe/quadpy) -
    Numerical integration (quadrature, cubature) in Python.
