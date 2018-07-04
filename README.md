@@ -217,6 +217,10 @@ A curated list of awesome software for numerical analysis.
    license](https://www.nist.gov/director/copyright-fair-use-and-licensing-statements-srd-data-and-software),
    [GitHub](https://github.com/usnistgov/fipy)]
 
+ - [accupy](https://github.com/nschloe/accupy) -
+   Accurate sums and dot products for Python.
+   [Python, MIT, GitHub]
+
 
 ## License
 
