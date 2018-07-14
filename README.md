@@ -155,12 +155,16 @@ A curated list of awesome software for numerical analysis.
    [C++, [GitLab](https://gitlab.kitware.com/xdmf/xdmf)]
 
  - [TetGen](http://wias-berlin.de/software/index.jsp?id=TetGen) -
-   Quality Tetrahedral Mesh Generator and a 3D Delaunay Triangulator.
+   Quality tetrahedral mesh generator and 3D Delaunay triangulator.
    [C++, AGPLv3]
 
  - [Triangle](https://www.cs.cmu.edu/~quake/triangle.html) -
-   Two-Dimensional Quality Mesh Generator and Delaunay Triangulator.
+   Two-dimensional quality mesh generator and Delaunay triangulator.
    [C, *nonfree software*]
+
+ - [optimesh](https://github.com/nschloe/optimesh) -
+   Two-dimensional mesh smoothing.
+   [Python, MIT, GitHub]
 
 
 ## Sparse linear solvers
