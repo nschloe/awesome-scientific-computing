@@ -166,6 +166,10 @@ A curated list of awesome software for numerical analysis.
    Two-dimensional mesh smoothing.
    [Python, MIT, GitHub]
 
+ - [distmesh](http://persson.berkeley.edu/distmesh/) -
+   Simple generator for unstructured triangular and tetrahedral meshes.
+   [MATLAB, GPL 3]
+
 
 ## Sparse linear solvers
 
