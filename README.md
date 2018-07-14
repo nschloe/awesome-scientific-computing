@@ -80,7 +80,7 @@ A curated list of awesome software for numerical analysis.
    platforms.
    [C++, LGPL 2.1, [GitHub](https://github.com/libMesh/libmesh)]
 
- - [deal.II](http://dealii.org/) -
+ - [deal.II](https://dealii.org/) -
    Software library supporting the creation of finite element codes and an open
    community of users and developers.
    [C++, LGPL 2.1, [GitHub](https://github.com/dealii/dealii)]
