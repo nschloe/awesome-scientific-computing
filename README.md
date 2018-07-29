@@ -219,7 +219,7 @@ A curated list of awesome software for numerical analysis.
   Numerical integration (quadrature, cubature) in Python.
   (Python, MIT, GitHub)
 
-- [FiPy](https://www.ctcms.nist.gov/fipy) -
+- [FiPy](https://www.ctcms.nist.gov/fipy/) -
   Finite-volume PDF solver.
   (Python, [custom open-source
   license](https://www.nist.gov/director/copyright-fair-use-and-licensing-statements-srd-data-and-software),
