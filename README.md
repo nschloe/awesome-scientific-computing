@@ -15,7 +15,7 @@ A curated list of awesome software for scientific computing and numerical analys
 
 ## Basic linear algebra
 
-- [BLAS](http://www.netlib.org/blas/) -
+- [BLAS](https://www.netlib.org/blas/) -
   Standard building blocks for performing basic vector and matrix operations.
   (Fortran, public domain, [GitHub](https://github.com/Reference-LAPACK/lapack/tree/master/BLAS))
 
@@ -28,13 +28,13 @@ A curated list of awesome software for scientific computing and numerical analys
   dense linear algebra libraries.
   (C++, BSD, GitHub)
 
-- [LAPACK](http://www.netlib.org/lapack/) -
+- [LAPACK](https://www.netlib.org/lapack/) -
   Routines for solving systems of simultaneous linear equations, least-squares
   solutions of linear systems of equations, eigenvalue problems, and singular
   value problems.
   (Fortran, BSD, [GitHub](https://github.com/Reference-LAPACK/lapack))
 
-- [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) -
+- [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) -
   C++ template library for linear algebra: matrices, vectors, numerical
   solvers, and related algorithms.
   (C++, MPL 2, [BitBucket](https://bitbucket.org/eigen/eigen))
@@ -42,7 +42,7 @@ A curated list of awesome software for scientific computing and numerical analys
 
 ## Frameworks
 
-- [PETSc](http://www.mcs.anl.gov/petsc/) -
+- [PETSc](https://www.mcs.anl.gov/petsc/) -
   Suite of data structures and routines for the scalable (parallel) solution
   of scientific applications modeled by partial differential equations.
   (C, 2-clause BSD, [BitBucket](https://bitbucket.org/petsc/petsc/src))
@@ -62,7 +62,7 @@ A curated list of awesome software for scientific computing and numerical analys
   Fourier transforms, signal and image processing, ODE solvers, and more.
   (Python, mostly BSD, [GitHub](https://github.com/scipy/scipy/))
 
-- [NumPy](http://www.numpy.org) -
+- [NumPy](https://www.numpy.org) -
   Fundamental package needed for scientific computing with Python.
   (Python, BSD, [GitHub](https://github.com/numpy/numpy))
 
@@ -236,7 +236,7 @@ A curated list of awesome software for scientific computing and numerical analys
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Nico Schlömer](https://github.com/nschloe)
 has waived all copyright and related or neighboring rights to this work.
