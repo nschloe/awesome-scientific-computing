@@ -1,6 +1,6 @@
-# Awesome Numerical Software [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Scientific Computing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome software for numerical analysis.
+A curated list of awesome software for scientific computing and numerical analysis.
 
 
 ## Contents
