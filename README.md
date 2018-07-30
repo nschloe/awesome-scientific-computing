@@ -229,7 +229,7 @@ A curated list of awesome software for numerical analysis.
   Accurate sums and dot products for Python.
   (Python, MIT, GitHub)
 
-- [SLEPc](http://slepc.upv.es/) -
+- [SLEPc](http://slepc.upv.es) -
   Scalable Library for Eigenvalue Problem Computations.
   (C, 2-clause BSD, [BitBucket](https://bitbucket.org/slepc/slepc/src/master/))
 
