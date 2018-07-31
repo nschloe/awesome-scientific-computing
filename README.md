@@ -1,9 +1,9 @@
 # Awesome Scientific Computing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-<img src="https://nschloe.github.io/awesome-scientific-computing/sunglasses.svg" align="right" width="20%">
+<img src="https://nschloe.github.io/awesome-scientific-computing/sunglasses.svg" align="right" width="30%">
 
-A curated list of awesome software for scientific computing and numerical analysis.
+Useful resources for scientific computing and numerical analysis.
 
 
 ## Contents
