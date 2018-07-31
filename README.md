@@ -1,7 +1,7 @@
 # Awesome Scientific Computing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-<img src="https://nschloe.github.io/awesome-scientific-computing/sunglasses.svg" align="right" width="30%">
+[<img src="https://nschloe.github.io/awesome-scientific-computing/sunglasses.svg" align="right" width="30%">](#readme)
 
 Useful resources for scientific computing and numerical analysis.
 
