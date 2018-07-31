@@ -97,7 +97,7 @@ Useful resources for scientific computing and numerical analysis.
   using the finite element method.
   (Python, LGPL 3, [GitHub](https://github.com/firedrakeproject/firedrake))
 
-- [MOOSE](http://www.mooseframework.org) -
+- [MOOSE](https://en.wikipedia.org/wiki/MOOSE_(software)) -
   Multiphysics Object Oriented Simulation Environment.
   (C/Python, LGPL 2.1, [GitHub](https://github.com/idaholab/moose))
 
