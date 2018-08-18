@@ -14,6 +14,7 @@ Useful resources for scientific computing and numerical analysis.
 - [Meshing](#meshing)
 - [Sparse linear solvers](#sparse-linear-solvers)
 - [Other libraries and tools](#other-libraries-and-tools)
+- [Miscellaneous](#miscellaneous)
 
 
 ## Basic linear algebra
