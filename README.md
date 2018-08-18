@@ -13,7 +13,7 @@ Useful resources for scientific computing and numerical analysis.
 - [Finite Elements](#finite-elements)
 - [Meshing](#meshing)
 - [Sparse linear solvers](#sparse-linear-solvers)
-- [Miscellaneous](#miscellaneous)
+- [Other libraries and tools](#other-libraries-and-tools)
 
 
 ## Basic linear algebra
@@ -138,7 +138,7 @@ Useful resources for scientific computing and numerical analysis.
   (Python, MIT, [GitHub](https://github.com/pyamg/pyamg))
 
 
-## Miscellaneous
+## Other libraries and tools
 
 - [FFTW](http://www.fftw.org) - Discrete Fourier transforms in one or more dimensions, of arbitrary input size, and of both real and complex data.
   (C, GPL2, [GitHub](https://github.com/FFTW/fftw3))
@@ -170,6 +170,14 @@ Useful resources for scientific computing and numerical analysis.
 - [SLEPc](http://slepc.upv.es) - Scalable Library for Eigenvalue Problem Computations.
   (C, 2-clause BSD, [BitBucket](https://bitbucket.org/slepc/slepc/src/master/))
 
+
+## Miscellaneous
+
+- [SciComp StackExchange](https://scicomp.stackexchange.com/) - Computational Science on the StackExchange network.
+
+- [Wolfgang Bangerth's video class](http://www.math.colostate.edu/~bangerth/videos.html) - MATH 676: Finite element methods in scientific computing.
+
+- [Nick Higham's blog](https://nickhigham.wordpress.com/) - Mostly on MATLAB, general computing advice.
 
 ## License
 
