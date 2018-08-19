@@ -14,7 +14,7 @@ Useful resources for scientific computing and numerical analysis.
 - [Meshing](#meshing)
 - [Sparse linear solvers](#sparse-linear-solvers)
 - [Other libraries and tools](#other-libraries-and-tools)
-- [Miscellaneous](#miscellaneous)
+- [Community](#community)
 
 
 ## Basic linear algebra
@@ -171,14 +171,19 @@ Useful resources for scientific computing and numerical analysis.
 - [SLEPc](http://slepc.upv.es) - Scalable Library for Eigenvalue Problem Computations.
   (C, 2-clause BSD, [BitBucket](https://bitbucket.org/slepc/slepc/src/master/))
 
+- [Chebfun](http://www.chebfun.org/) - Computing with functions to about 15-digit accuracy.
+  (MATLAB, BSD,[GitHub](https://github.com/chebfun/chebfun))
 
-## Miscellaneous
+
+## Community
 
 - [SciComp StackExchange](https://scicomp.stackexchange.com/) - Computational Science on the StackExchange network.
 
 - [Wolfgang Bangerth's video class](http://www.math.colostate.edu/~bangerth/videos.html) - MATH 676: Finite element methods in scientific computing.
 
 - [Nick Higham's blog](https://nickhigham.wordpress.com/) - Mostly on MATLAB, general computing advice.
+
+- [Nick Trefethen's Video Lectures](https://people.maths.ox.ac.uk/trefethen/videos.html) - 36 video lectures on approximation theory/practice and scientific computing.
 
 ## License
 
