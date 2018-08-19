@@ -171,7 +171,7 @@ Useful resources for scientific computing and numerical analysis.
 - [SLEPc](http://slepc.upv.es) - Scalable Library for Eigenvalue Problem Computations.
   (C, 2-clause BSD, [BitBucket](https://bitbucket.org/slepc/slepc/src/master/))
 
-- [Chebfun](http://www.chebfun.org/) - Computing with functions to about 15-digit accuracy.
+- [Chebfun](https://www.chebfun.org/) - Computing with functions to about 15-digit accuracy.
   (MATLAB, BSD,[GitHub](https://github.com/chebfun/chebfun))
 
 
