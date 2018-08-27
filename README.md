@@ -187,7 +187,7 @@ Useful resources for scientific computing and numerical analysis.
 
 - [John D. Cook's blog](https://www.johndcook.com/blog/) - Feats of scientific computing.
 
-- [Jack Dongarra's software list](http://www.netlib.org/utk/people/JackDongarra/la-sw.html) - List of freely available software for the solution of linear algebra problems.
+- [Jack Dongarra's software list](https://www.netlib.org/utk/people/JackDongarra/la-sw.html) - List of freely available software for the solution of linear algebra problems.
 
 ## License
 
