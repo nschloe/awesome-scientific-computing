@@ -3,7 +3,13 @@
 
 [<img src="https://nschloe.github.io/awesome-scientific-computing/sunglasses.svg" align="right" width="30%">](#readme)
 
-Useful resources for scientific computing and numerical analysis.
+> Useful resources for scientific computing and numerical analysis.
+
+Scientific computing and numerical analysis are research fields that aim to provide
+methods for solving large-scale problems from various areas of science with the help of
+computers. Typical problems are ordinary and partial differential equations (ODEs,
+PDEs), their discretizations, and the solution of linear algebra problems arising from
+them.
 
 
 ## Contents
