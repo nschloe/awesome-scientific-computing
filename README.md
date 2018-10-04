@@ -132,6 +132,8 @@ them.
 - [distmesh](http://persson.berkeley.edu/distmesh/) - Simple generator for unstructured triangular and tetrahedral meshes.
   (MATLAB, GPL 3)
 
+- [QuadriFlow](http://stanford.edu/~jingweih/papers/quadriflow/) - A Scalable and Robust Method for Quadrangulation.
+  (C++, BSD, [GitHub](https://github.com/hjwdzh/QuadriFlow))
 
 ## Sparse linear solvers
 
