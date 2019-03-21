@@ -63,10 +63,12 @@ them.
   (C++, LGPL 2.1, [GitHub](https://github.com/NGSolve/netgen))
 - [Firedrake](https://www.firedrakeproject.org) - Automated system for the solution of PDEs using the finite element method.
   (Python, LGPL 3, [GitHub](https://github.com/firedrakeproject/firedrake))
-- [MOOSE](http://www.mooseframework.org) - Multiphysics Object Oriented Simulation Environment.
+- [MOOSE](https://www.mooseframework.org) - Multiphysics Object Oriented Simulation Environment.
   (C/Python, LGPL 2.1, [GitHub](https://github.com/idaholab/moose))
-- [MFEM](http://mfem.org) - Free, lightweight, scalable C++ library for finite element methods.
+- [MFEM](https://mfem.org) - Free, lightweight, scalable C++ library for finite element methods.
   (C++, LGPL 2.1, [GitHub](https://github.com/mfem/mfem))
+- [SfePy](https://sfepy.org) - Simple Finite Elements in Python.
+  (Python, BSD, [GitHub](https://github.com/sfepy/sfepy))
 
 
 ## Meshing
@@ -85,7 +87,7 @@ them.
   (Python, MIT, GitHub)
 - [mshr](https://bitbucket.org/fenics-project/mshr/) - Mesh generation component of FEniCS.
   (Python, GPL 3, BitBucket)
-- [MOAB](http://sigma.mcs.anl.gov/moab-library/) - Representing and evaluating mesh data.
+- [MOAB](https://press3.mcs.anl.gov/sigma/moab-library/) - Representing and evaluating mesh data.
   (C++, mostly LGPL3, [BitBucket](https://bitbucket.org/fathomteam/moab/))
 - [NetCDF](https://www.unidata.ucar.edu/software/netcdf/) - Software libraries and data formats for the creation, access, and sharing of array-oriented scientific data.
   (C/C++/Fortran/Java/Python, [custom open-source
@@ -95,7 +97,7 @@ them.
   (C/Fortran, BSD)
 - [XDMF](http://www.xdmf.org/index.php/Main_Page) - eXtensible Data Model and Format to exchange scientific data between High Performance Computing codes and tools.
   (C++, [GitLab](https://gitlab.kitware.com/xdmf/xdmf))
-- [TetGen](http://wias-berlin.de/software/index.jsp?id=TetGen) - Quality tetrahedral mesh generator and 3D Delaunay triangulator.
+- [TetGen](https://www.wias-berlin.de/software/index.jsp?id=TetGen) - Quality tetrahedral mesh generator and 3D Delaunay triangulator.
   (C++, AGPLv3)
 - [Triangle](https://www.cs.cmu.edu/~quake/triangle.html) - Two-dimensional quality mesh generator and Delaunay triangulator.
   (C, *nonfree software*)
@@ -103,13 +105,15 @@ them.
   (Python, MIT, GitHub)
 - [distmesh](http://persson.berkeley.edu/distmesh/) - Simple generator for unstructured triangular and tetrahedral meshes.
   (MATLAB, GPL 3)
-- [QuadriFlow](http://stanford.edu/~jingweih/papers/quadriflow/) - A Scalable and Robust Method for Quadrangulation.
+- [QuadriFlow](https://stanford.edu/~jingweih/papers/quadriflow/) - A Scalable and Robust Method for Quadrangulation.
   (C++, BSD, [GitHub](https://github.com/hjwdzh/QuadriFlow))
+- [trimesh](https://trimsh.org/) - Loading and using triangular meshes with an emphasis on watertight surfaces.
+  (Python, MIT, [GitHub](https://github.com/mikedh/trimesh))
 
 
 ## Sparse linear solvers
 
-- [SuperLU](http://crd-legacy.lbl.gov/~xiaoye/SuperLU/) - Direct solution of large, sparse, nonsymmetric systems of linear equations.
+- [SuperLU](https://crd-legacy.lbl.gov/~xiaoye/SuperLU/) - Direct solution of large, sparse, nonsymmetric systems of linear equations.
   (C, mostly BSD, [GitHub](https://github.com/xiaoyeli/superlu))
 - [KryPy](https://github.com/andrenarchy/krypy) - Krylov subspace methods for the solution of linear algebraic systems.
   (Python, MIT, GitHub)
@@ -147,7 +151,7 @@ them.
 ## Community
 
 - [SciComp StackExchange](https://scicomp.stackexchange.com/) - Computational Science on the StackExchange network.
-- [Wolfgang Bangerth's video class](http://www.math.colostate.edu/~bangerth/videos.html) - MATH 676: Finite element methods in scientific computing.
+- [Wolfgang Bangerth's video class](https://www.math.colostate.edu/~bangerth/videos.html) - MATH 676: Finite element methods in scientific computing.
 - [Nick Higham's blog](https://nickhigham.wordpress.com/) - Mostly on MATLAB, general computing advice.
 - [Nick Trefethen's Video Lectures](https://people.maths.ox.ac.uk/trefethen/videos.html) - 36 video lectures on approximation theory/practice and scientific computing.
 - [John D. Cook's blog](https://www.johndcook.com/blog/) - Feats of scientific computing.
