@@ -107,6 +107,8 @@ them.
   (MATLAB, GPL 3)
 - [QuadriFlow](https://stanford.edu/~jingweih/papers/quadriflow/) - A Scalable and Robust Method for Quadrangulation.
   (C++, BSD, [GitHub](https://github.com/hjwdzh/QuadriFlow))
+- [trimesh](https://trimsh.org/) - Loading and using triangular meshes with an emphasis on watertight surfaces.
+  (Python, MIT, [GitHub](https://github.com/mikedh/trimesh))
 
 
 ## Sparse linear solvers
