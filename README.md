@@ -109,7 +109,8 @@ them.
   (C++, BSD, [GitHub](https://github.com/hjwdzh/QuadriFlow))
 - [trimesh](https://trimsh.org/) - Loading and using triangular meshes with an emphasis on watertight surfaces.
   (Python, MIT, [GitHub](https://github.com/mikedh/trimesh))
-
+- [Shapely](https://github.com/Toblerity/Shapely) - Manipulation of discrete two-dimensional geometric objects.
+  (Python, BSD, GitHub)
 
 ## Sparse linear solvers
 
