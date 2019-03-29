@@ -146,7 +146,8 @@ them.
   (C, 2-clause BSD, [BitBucket](https://bitbucket.org/slepc/slepc/src/master/))
 - [Chebfun](https://www.chebfun.org/) - Computing with functions to about 15-digit accuracy.
   (MATLAB, BSD,[GitHub](https://github.com/chebfun/chebfun))
-- [Surface Evolver](http://facstaff.susqu.edu/brakke/evolver/evolver.html)
+- [Surface Evolver](http://facstaff.susqu.edu/brakke/evolver/evolver.html) - Interactive program for modelling menisci shaped by capillarity, gravity, &c.
+  (C, public domain)
 
 ## Community
 
