@@ -119,7 +119,7 @@ them.
   (Python, MIT, GitHub)
 - [PyAMG](https://pyamg.github.io) - Algebraic Multigrid Solvers in Python.
   (Python, MIT, [GitHub](https://github.com/pyamg/pyamg))
-- [scikit-sparse](https://github.com/scikit-sparse/scikit-sparse) - Sparse Cholesky decomposition in SciPy (Python, [BSD 2-Clause "Simplified"](https://github.com/scikit-sparse/scikit-sparse/blob/master/LICENSE.txt), GitHub)
+- [scikit-sparse](https://github.com/scikit-sparse/scikit-sparse) - Sparse Cholesky decomposition in SciPy. (Python, [BSD 2-Clause "Simplified"](https://github.com/scikit-sparse/scikit-sparse/blob/master/LICENSE.txt), GitHub)
 
 ## Other libraries and tools
 
