@@ -158,6 +158,7 @@ them.
 - [Nick Trefethen's Video Lectures](https://people.maths.ox.ac.uk/trefethen/videos.html) - 36 video lectures on approximation theory/practice and scientific computing.
 - [John D. Cook's blog](https://www.johndcook.com/blog/) - Feats of scientific computing.
 - [Jack Dongarra's software list](https://www.netlib.org/utk/people/JackDongarra/la-sw.html) - List of freely available software for the solution of linear algebra problems.
+- [NA Digest](http://www.netlib.org/na-digest-html/) - Collection of articles on topics related to numerical analysis and those who practice it.
 
 ## License
 
