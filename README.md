@@ -15,7 +15,7 @@ them.
 ## Contents
 
 - [Basic linear algebra](#basic-linear-algebra)
-- [Frameworks](#frameworks)
+- [Multi-purpose toolkits](#multi-purpose-toolkits)
 - [Finite Elements](#finite-elements)
 - [Meshing](#meshing)
 - [Sparse linear solvers](#sparse-linear-solvers)
@@ -39,7 +39,7 @@ them.
   (C++, BSD, [GitHub](https://github.com/ginkgo-project/ginkgo))
 
 
-## Frameworks
+## Multi-purpose toolkits
 
 - [PETSc](https://www.mcs.anl.gov/petsc/) - Data structures and routines for the parallel solution of scientific applications modeled by PDEs.
   (C, 2-clause BSD, [BitBucket](https://bitbucket.org/petsc/petsc/src))
@@ -69,7 +69,7 @@ them.
   (C++, LGPL 2.1, [GitHub](https://github.com/mfem/mfem))
 - [SfePy](https://sfepy.org) - Simple Finite Elements in Python.
   (Python, BSD, [GitHub](https://github.com/sfepy/sfepy))
-- [FreeFEM](https://freefem.org) - High level multiphysics--multimesh finite element language. (C++, LGPL, [GitHub](https://github.com/FreeFem))
+- [FreeFEM](https://freefem.org) - High level multiphysics-multimesh finite element language. (C++, LGPL, [GitHub](https://github.com/FreeFem))
 
 ## Meshing
 
