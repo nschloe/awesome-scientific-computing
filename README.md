@@ -64,7 +64,7 @@ them.
 - [Firedrake](https://www.firedrakeproject.org) - Automated system for the solution of PDEs using the finite element method.
   (Python, LGPL 3, [GitHub](https://github.com/firedrakeproject/firedrake))
 - [MOOSE](https://www.mooseframework.org) - Multiphysics Object Oriented Simulation Environment.
-  (C/Python, LGPL 2.1, [GitHub](https://github.com/idaholab/moose))
+  (C++, LGPL 2.1, [GitHub](https://github.com/idaholab/moose))
 - [MFEM](https://mfem.org) - Free, lightweight, scalable C++ library for finite element methods.
   (C++, LGPL 2.1, [GitHub](https://github.com/mfem/mfem))
 - [SfePy](https://sfepy.org) - Simple Finite Elements in Python.
