@@ -28,9 +28,9 @@ them.
 - [BLAS](https://www.netlib.org/blas/) - Standard building blocks for performing basic vector and matrix operations.
   (Fortran, public domain, [GitHub](https://github.com/Reference-LAPACK/lapack/tree/master/BLAS))
 - [OpenBLAS](https://www.openblas.net) - Optimized BLAS library based on GotoBLAS2.
-  (Fortran, BSD, [GitHub](https://github.com/xianyi/OpenBLAS))
+  (C and Assembly, BSD, [GitHub](https://github.com/xianyi/OpenBLAS))
 - [BLIS](https://github.com/flame/blis) - High-performance BLAS-like dense linear algebra libraries.
-  (C++, BSD, GitHub)
+  (C, BSD, GitHub)
 - [LAPACK](https://www.netlib.org/lapack/) - Routines for solving systems of linear equations, least-squares solutions of linear systems, eigenvalue problems, and singular value problems.
   (Fortran, BSD, [GitHub](https://github.com/Reference-LAPACK/lapack))
 - [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) - C++ template library for linear algebra.
