@@ -148,6 +148,8 @@ them.
   (C, 2-clause BSD, [BitBucket](https://bitbucket.org/slepc/slepc/src/master/))
 - [Chebfun](https://www.chebfun.org/) - Computing with functions to about 15-digit accuracy.
   (MATLAB, BSD, [GitHub](https://github.com/chebfun/chebfun))
+- [pyMOR](https://pymor.org/) - Model Order Reduction with Python.
+  (Python, 2-clause BSD, [GitHub](https://github.com/pymor/pymor/))
 
 
 ## Community
