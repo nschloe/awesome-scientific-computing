@@ -111,7 +111,7 @@ them.
   (Python, MIT, [GitHub](https://github.com/mikedh/trimesh))
 - [dmsh](https://github.com/nschloe/dmsh) - Simple generator for unstructured triangular meshes, inspired by distmesh.
   (Python, MIT, GitHub)
-
+- [pmp-library](http://www.pmp-library.org/) - Polygon mesh processing library. (C++, MIT with Employer Disclaimer, [GitHub](https://github.com/pmp-library/pmp-library/))
 
 ## Sparse linear solvers
 
