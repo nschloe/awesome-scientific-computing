@@ -121,6 +121,8 @@ them.
   (Python, MIT, GitHub)
 - [PyAMG](https://pyamg.github.io) - Algebraic Multigrid Solvers in Python.
   (Python, MIT, [GitHub](https://github.com/pyamg/pyamg))
+- [hypre](https://computing.llnl.gov/projects/hypre-scalable-linear-solvers-multigrid-methods) - Library of high-performance preconditioners and solvers.
+  (C, Apache 2.0/MIT, [GitHub](https://github.com/hypre-space/hypre))
 
 
 ## Other libraries and tools
