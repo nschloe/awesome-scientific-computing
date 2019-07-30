@@ -33,7 +33,7 @@ them.
   (C, BSD, GitHub)
 - [LAPACK](https://www.netlib.org/lapack/) - Routines for solving systems of linear equations, least-squares solutions of linear systems, eigenvalue problems, and singular value problems.
   (Fortran, BSD, [GitHub](https://github.com/Reference-LAPACK/lapack))
-- [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) - C++ template library for linear algebra.
+- [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) - C++ template library for linear algebra.
   (C++, MPL 2, [BitBucket](https://bitbucket.org/eigen/eigen))
 - [Ginkgo](https://ginkgo-project.github.io/) - High-performance manycore linear algebra library, focus on sparse systems.
   (C++, BSD, [GitHub](https://github.com/ginkgo-project/ginkgo))
@@ -47,7 +47,7 @@ them.
   (C++, GPL 2, [GitLab](https://gitlab.dune-project.org/core/))
 - [SciPy](https://www.scipy.org) - Python modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.
   (Python, mostly BSD, [GitHub](https://github.com/scipy/scipy/))
-- [NumPy](https://www.numpy.org) - Fundamental package needed for scientific computing with Python.
+- [NumPy](https://numpy.org/) - Fundamental package needed for scientific computing with Python.
   (Python, BSD, [GitHub](https://github.com/numpy/numpy))
 
 
@@ -121,6 +121,8 @@ them.
   (Python, MIT, GitHub)
 - [PyAMG](https://pyamg.github.io) - Algebraic Multigrid Solvers in Python.
   (Python, MIT, [GitHub](https://github.com/pyamg/pyamg))
+- [hypre](https://computing.llnl.gov/projects/hypre-scalable-linear-solvers-multigrid-methods) - Library of high-performance preconditioners and solvers.
+  (C, Apache 2.0/MIT, [GitHub](https://github.com/hypre-space/hypre))
 
 
 ## Other libraries and tools
