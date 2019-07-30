@@ -3,5 +3,5 @@ default:
 
 lint:
 	awesome-lint README.md
-	# Allow SSL errors for Trilinos, allow redirect for awesome.re
-	awesome_bot --allow-ssl --allow-redirect README.md
+	# Allow redirect for awesome.re
+	awesome_bot --allow-redirect README.md

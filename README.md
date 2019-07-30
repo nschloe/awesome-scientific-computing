@@ -47,7 +47,7 @@ them.
   (C++, GPL 2, [GitLab](https://gitlab.dune-project.org/core/))
 - [SciPy](https://www.scipy.org) - Python modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.
   (Python, mostly BSD, [GitHub](https://github.com/scipy/scipy/))
-- [NumPy](https://www.numpy.org) - Fundamental package needed for scientific computing with Python.
+- [NumPy](https://numpy.org/) - Fundamental package needed for scientific computing with Python.
   (Python, BSD, [GitHub](https://github.com/numpy/numpy))
 
 
