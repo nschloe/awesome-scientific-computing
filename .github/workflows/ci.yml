@@ -10,6 +10,6 @@ jobs:
     # - run: sudo npm install --global awesome-lint
     # - run: awesome-lint README.md
     - run: sudo apt install -y ruby
-    - run: gem install awesome_bot
+    - run: sudo gem install awesome_bot
     # Allow redirect for awesome.re
     - run: awesome_bot --white-list https://awesome.re,https://portal.nersc.gov/project/sparse/superlu/ README.md
