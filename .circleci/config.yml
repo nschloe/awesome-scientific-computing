@@ -10,11 +10,8 @@ jobs:
       - run: apt update
       - run: apt install -y npm git
       - run: npm install --global awesome-lint
-      # disable awesome-lint for now as some websites are temporarily down
-      # TODO re-enable
-      # - run: cd ~/work && awesome-lint README.md
-      # - run: apt install -y ruby
-      # - run: gem install awesome_bot
-      # Allow SSL errors for Trilinos, allow redirect for awesome.re
-      # Re-enable once mooseframework.org is back up again
-      # - run: awesome_bot --allow-ssl --allow-redirect ~/work/README.md
+      - run: cd ~/work && awesome-lint README.md
+      - run: apt install -y ruby
+      - run: gem install awesome_bot
+      # Allow redirect for awesome.re
+      - run: awesome_bot --allow-redirect ~/work/README.md
