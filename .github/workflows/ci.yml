@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - run: sudo npm install --global awesome-lint
-    - run: cd ~/work && awesome-lint README.md
+    - run: awesome-lint README.md
     - run: gem install awesome_bot
     # Allow redirect for awesome.re
-    - run: awesome_bot --allow-redirect ~/work/README.md
+    - run: awesome_bot --allow-redirect README.md
