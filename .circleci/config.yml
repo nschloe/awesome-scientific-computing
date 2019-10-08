@@ -10,11 +10,8 @@ jobs:
       - run: apt update
       - run: apt install -y npm git
       - run: npm install --global awesome-lint
-      # disable awesome-lint for now as some websites are temporarily down
-      # TODO re-enable
+      # "License was not detected by GitHub"
       # - run: cd ~/work && awesome-lint README.md
-      # - run: apt install -y ruby
-      # - run: gem install awesome_bot
-      # Allow SSL errors for Trilinos, allow redirect for awesome.re
-      # Re-enable once mooseframework.org is back up again
-      # - run: awesome_bot --allow-ssl --allow-redirect ~/work/README.md
+      - run: apt install -y ruby
+      - run: gem install awesome_bot
+      - run: awesome_bot --white-list https://awesome.re,https://portal.nersc.gov/project/sparse/superlu/ ~/work/README.md

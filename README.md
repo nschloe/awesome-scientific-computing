@@ -42,7 +42,7 @@ them.
 ## Multi-purpose toolkits
 
 - [PETSc](https://www.mcs.anl.gov/petsc/) - Data structures and routines for the parallel solution of scientific applications modeled by PDEs.
-  (C, 2-clause BSD, [BitBucket](https://bitbucket.org/petsc/petsc/src))
+  (C, 2-clause BSD, [GitLab](https://gitlab.com/petsc/petsc))
 - [DUNE Numerics](https://www.dune-project.org) - Toolbox for solving PDEs with grid-based methods.
   (C++, GPL 2, [GitLab](https://gitlab.dune-project.org/core/))
 - [SciPy](https://www.scipy.org) - Python modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.
@@ -113,10 +113,11 @@ them.
   (Python, MIT, GitHub)
 - [pmp-library](http://www.pmp-library.org/) - Polygon mesh processing library. (C++, MIT with Employer Disclaimer, [GitHub](https://github.com/pmp-library/pmp-library/))
 - [Mmg](https://www.mmgtools.org/) - Robust, open-source & multidisciplinary software for remeshing. (C, LGPL 3, [GitHub](https://github.com/MmgTools/mmg))
+- [meshplex](https://github.com/nschloe/meshplex) - Fast tools for simplex meshes. (Python, MIT, GitHub)
 
 ## Sparse linear solvers
 
-- [SuperLU](https://crd-legacy.lbl.gov/~xiaoye/SuperLU/) - Direct solution of large, sparse, nonsymmetric systems of linear equations.
+- [SuperLU](https://portal.nersc.gov/project/sparse/superlu/) - Direct solution of large, sparse, nonsymmetric systems of linear equations.
   (C, mostly BSD, [GitHub](https://github.com/xiaoyeli/superlu))
 - [KryPy](https://github.com/andrenarchy/krypy) - Krylov subspace methods for the solution of linear algebraic systems.
   (Python, MIT, GitHub)
