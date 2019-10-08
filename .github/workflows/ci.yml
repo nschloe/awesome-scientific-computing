@@ -6,6 +6,7 @@ jobs:
   lint:
     runs-on: ubuntu-latest
     steps:
+    - uses: actions/checkout@v1
     # "License was not detected by GitHub"
     # - run: sudo npm install --global awesome-lint
     # - run: awesome-lint README.md
