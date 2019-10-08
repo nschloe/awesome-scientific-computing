@@ -1,0 +1,15 @@
+name: ci
+
+on: [push]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+    - run: apt install -y npm git
+    - run: npm install --global awesome-lint
+    - run: cd ~/work && awesome-lint README.md
+    - run: apt install -y ruby
+    - run: gem install awesome_bot
+    # Allow redirect for awesome.re
+    - run: awesome_bot --allow-redirect ~/work/README.md
