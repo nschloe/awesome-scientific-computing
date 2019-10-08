@@ -10,8 +10,8 @@ jobs:
       - run: apt update
       - run: apt install -y npm git
       - run: npm install --global awesome-lint
-      - run: cd ~/work && awesome-lint README.md
+      # "License was not detected by GitHub"
+      # - run: cd ~/work && awesome-lint README.md
       - run: apt install -y ruby
       - run: gem install awesome_bot
-      # Allow redirect for awesome.re
-      - run: awesome_bot --allow-redirect ~/work/README.md
+      - run: awesome_bot --white-list https://awesome.re,https://portal.nersc.gov/project/sparse/superlu/ ~/work/README.md

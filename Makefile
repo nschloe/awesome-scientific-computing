@@ -3,5 +3,4 @@ default:
 
 lint:
 	awesome-lint README.md
-	# Allow redirect for awesome.re
-	awesome_bot --allow-redirect README.md
+	awesome_bot --white-list https://awesome.re,https://portal.nersc.gov/project/sparse/superlu/ README.md
