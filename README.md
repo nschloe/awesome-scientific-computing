@@ -156,7 +156,7 @@ them.
   (Python, 2-clause BSD, [GitHub](https://github.com/pymor/pymor/))
 - [cvxpy](https://www.cvxpy.org/) - Modeling language for convex optimization problems.
   (Python, Apache 2.0, [GitHub](https://github.com/cvxgrp/cvxpy))
-- [PyWavelets](https://pywavelets.readthedocs.org/) - Wavelet transforms in Python.
+- [PyWavelets](https://pywavelets.readthedocs.io/en/latest/) - Wavelet transforms in Python.
   (Python, MIT, [GitHub](https://github.com/PyWavelets/pywt))
 
 
