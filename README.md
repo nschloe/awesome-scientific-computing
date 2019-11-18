@@ -144,7 +144,7 @@ them.
   (Python, MIT, GitHub)
 - [FiPy](https://www.ctcms.nist.gov/fipy/) - Finite-volume PDF solver.
   (Python, [custom open-source
-  license](https://www.nist.gov/director/copyright-fair-use-and-licensing-statements-srd-data-and-software),
+  license](https://www.nist.gov/topics/data/public-access-nist-research/copyright-fair-use-and-licensing-statements-srd-data-and),
   [GitHub](https://github.com/usnistgov/fipy))
 - [accupy](https://github.com/nschloe/accupy) - Accurate sums and dot products for Python.
   (Python, MIT, GitHub)
@@ -166,7 +166,7 @@ them.
 
 - [SciComp StackExchange](https://scicomp.stackexchange.com/) - Computational Science on the StackExchange network.
 - [Wolfgang Bangerth's video class](https://www.math.colostate.edu/~bangerth/videos.html) - MATH 676: Finite element methods in scientific computing.
-- [Nick Higham's blog](https://nickhigham.wordpress.com/) - Mostly on MATLAB, general computing advice.
+- [Nick Higham's blog](https://nhigham.com/) - Mostly on MATLAB, general computing advice.
 - [Nick Trefethen's Video Lectures](https://people.maths.ox.ac.uk/trefethen/videos.html) - 36 video lectures on approximation theory/practice and scientific computing.
 - [John D. Cook's blog](https://www.johndcook.com/blog/) - Feats of scientific computing.
 - [Jack Dongarra's software list](https://www.netlib.org/utk/people/JackDongarra/la-sw.html) - List of freely available software for the solution of linear algebra problems.
