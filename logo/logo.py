@@ -64,7 +64,9 @@ def _create_mesh(filename):
         # show=True
     )
 
-    X, cells = optimesh.lloyd(X, cells, 1.0e-3, 100)
+    X, cells = optimesh.cvt.quasi_newton_uniform_full(
+        X, cells, 1.0e-3, 100, verbose=True
+    )
 
     X = numpy.column_stack([X[:, 0], X[:, 1], numpy.zeros(X.shape[0])])
 
