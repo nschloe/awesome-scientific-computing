@@ -158,6 +158,8 @@ them.
   (Python, Apache 2.0, [GitHub](https://github.com/cvxgrp/cvxpy))
 - [PyWavelets](https://pywavelets.readthedocs.io/en/latest/) - Wavelet transforms in Python.
   (Python, MIT, [GitHub](https://github.com/PyWavelets/pywt))
+- [NFFT](https://www-user.tu-chemnitz.de/~potts/nfft/) - Nonequispaced fast Fourier transform.
+  (C/MATLAB, GPL 2, [GitHub](https://github.com/NFFT/nfft))
 
 
 ## Community
