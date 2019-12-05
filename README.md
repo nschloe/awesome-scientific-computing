@@ -70,7 +70,8 @@ them.
   (C++, LGPL 2.1, [GitHub](https://github.com/mfem/mfem))
 - [SfePy](https://sfepy.org) - Simple Finite Elements in Python.
   (Python, BSD, [GitHub](https://github.com/sfepy/sfepy))
-- [FreeFEM](https://freefem.org) - High level multiphysics-multimesh finite element language. (C++, LGPL, [GitHub](https://github.com/FreeFem))
+- [FreeFEM](https://freefem.org) - High level multiphysics-multimesh finite element language.
+  (C++, LGPL, [GitHub](https://github.com/FreeFem))
 
 ## Meshing
 
@@ -115,6 +116,10 @@ them.
 - [pmp-library](https://www.pmp-library.org/) - Polygon mesh processing library. (C++, MIT with Employer Disclaimer, [GitHub](https://github.com/pmp-library/pmp-library/))
 - [Mmg](https://www.mmgtools.org/) - Robust, open-source & multidisciplinary software for remeshing. (C, LGPL 3, [GitHub](https://github.com/MmgTools/mmg))
 - [meshplex](https://github.com/nschloe/meshplex) - Fast tools for simplex meshes. (Python, MIT, GitHub)
+- [TetWild](https://cs.nyu.edu/~yixinhu/tetwild.pdf) - Robust Tetrahedral Meshing in the Wild.
+  (C++, GPL 3, [GitHub](https://github.com/Yixin-Hu/TetWild))
+- [TriWild](https://cs.nyu.edu/~yixinhu/triwild.pdf) -  Robust Triangulation with Curve Constraints.
+  (C++, MPL 2, [GitHub](https://github.com/wildmeshing/TriWild))
 
 ## Sparse linear solvers
 
