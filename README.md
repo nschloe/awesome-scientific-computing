@@ -134,6 +134,8 @@ them.
   (C++, BSD, [GitLab](https://gitlab.kitware.com/vtk/vtk))
 - [Mayavi](https://docs.enthought.com/mayavi/mayavi/) - 3D scientific data visualization and plotting in Python.
   (Python, BSD, [GitHub](https://github.com/enthought/mayavi))
+- [Polyscope](https://polyscope.run/) - Viewer and user interface for 3D geometry processing.
+  (C++, MIT, [GitHub](https://github.com/nmwsharp/polyscope))
 
 ## Other libraries and tools
 
