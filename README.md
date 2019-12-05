@@ -19,6 +19,7 @@ them.
 - [Finite Elements](#finite-elements)
 - [Meshing](#meshing)
 - [Sparse linear solvers](#sparse-linear-solvers)
+- [Visualization](#visualization)
 - [Other libraries and tools](#other-libraries-and-tools)
 - [Community](#community)
 
@@ -111,7 +112,7 @@ them.
   (Python, MIT, [GitHub](https://github.com/mikedh/trimesh))
 - [dmsh](https://github.com/nschloe/dmsh) - Simple generator for unstructured triangular meshes, inspired by distmesh.
   (Python, MIT, GitHub)
-- [pmp-library](http://www.pmp-library.org/) - Polygon mesh processing library. (C++, MIT with Employer Disclaimer, [GitHub](https://github.com/pmp-library/pmp-library/))
+- [pmp-library](https://www.pmp-library.org/) - Polygon mesh processing library. (C++, MIT with Employer Disclaimer, [GitHub](https://github.com/pmp-library/pmp-library/))
 - [Mmg](https://www.mmgtools.org/) - Robust, open-source & multidisciplinary software for remeshing. (C, LGPL 3, [GitHub](https://github.com/MmgTools/mmg))
 - [meshplex](https://github.com/nschloe/meshplex) - Fast tools for simplex meshes. (Python, MIT, GitHub)
 
@@ -126,6 +127,16 @@ them.
 - [hypre](https://computing.llnl.gov/projects/hypre-scalable-linear-solvers-multigrid-methods) - Library of high-performance preconditioners and solvers.
   (C, Apache 2.0/MIT, [GitHub](https://github.com/hypre-space/hypre))
 
+## Visualization
+
+- [ParaView](https://www.paraview.org) - Multi-platform data analysis and visualization application based on VTK.
+  (C++, BSD, [GitLab](https://gitlab.kitware.com/paraview/paraview))
+- [VTK](https://vtk.org/) - Process images and create 3D computer graphics.
+  (C++, BSD, [GitLab](https://gitlab.kitware.com/vtk/vtk))
+- [Mayavi](https://docs.enthought.com/mayavi/mayavi/) - 3D scientific data visualization and plotting in Python.
+  (Python, BSD, [GitHub](https://github.com/enthought/mayavi))
+- [Polyscope](https://polyscope.run/) - Viewer and user interface for 3D geometry processing.
+  (C++, MIT, [GitHub](https://github.com/nmwsharp/polyscope))
 
 ## Other libraries and tools
 
@@ -138,8 +149,6 @@ them.
   (C/C++, GPL 3, [Savannah](https://savannah.gnu.org/projects/gsl))
 - [OpenFOAM](https://www.openfoam.com) - Free, open source CFD (computational fluid dynamics) software.
   (C++, GPL 3, [GitHub](https://github.com/OpenFOAM/OpenFOAM-dev))
-- [ParaView](https://www.paraview.org) - Multi-platform data analysis and visualization application based on VTK.
-  (C++, BSD, [GitLab](https://gitlab.kitware.com/paraview/paraview))
 - [quadpy](https://github.com/nschloe/quadpy) - Numerical integration (quadrature, cubature) in Python.
   (Python, MIT, GitHub)
 - [FiPy](https://www.ctcms.nist.gov/fipy/) - Finite-volume PDF solver.
@@ -170,7 +179,7 @@ them.
 - [Nick Trefethen's Video Lectures](https://people.maths.ox.ac.uk/trefethen/videos.html) - 36 video lectures on approximation theory/practice and scientific computing.
 - [John D. Cook's blog](https://www.johndcook.com/blog/) - Feats of scientific computing.
 - [Jack Dongarra's software list](https://www.netlib.org/utk/people/JackDongarra/la-sw.html) - List of freely available software for the solution of linear algebra problems.
-- [NA Digest](http://www.netlib.org/na-digest-html/) - Collection of articles on topics related to numerical analysis and those who practice it.
+- [NA Digest](https://www.netlib.org/na-digest-html/) - Collection of articles on topics related to numerical analysis and those who practice it.
 
 ## License
 
