@@ -19,6 +19,7 @@ them.
 - [Finite Elements](#finite-elements)
 - [Meshing](#meshing)
 - [Sparse linear solvers](#sparse-linear-solvers)
+- [Visualization](#visualization)
 - [Other libraries and tools](#other-libraries-and-tools)
 - [Community](#community)
 
