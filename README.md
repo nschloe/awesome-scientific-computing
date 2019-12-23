@@ -32,7 +32,7 @@ them.
   (C and Assembly, BSD, [GitHub](https://github.com/xianyi/OpenBLAS))
 - [BLIS](https://github.com/flame/blis) - High-performance BLAS-like dense linear algebra libraries.
   (C, BSD, GitHub)
-- [LAPACK](https://www.netlib.org/lapack/) - Routines for solving systems of linear equations, least-squares solutions of linear systems, eigenvalue problems, and singular value problems.
+- [LAPACK](https://www.netlib.org/lapack/) - Routines for solving systems of linear equations, linear least-squares, eigenvalue problems, etc.
   (Fortran, BSD, [GitHub](https://github.com/Reference-LAPACK/lapack))
 - [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) - C++ template library for linear algebra.
   (C++, MPL 2, [BitBucket](https://bitbucket.org/eigen/eigen))
@@ -42,11 +42,11 @@ them.
 
 ## Multi-purpose toolkits
 
-- [PETSc](https://www.mcs.anl.gov/petsc/) - Data structures and routines for the parallel solution of scientific applications modeled by PDEs.
+- [PETSc](https://www.mcs.anl.gov/petsc/) - Parallel solution of scientific applications modeled by PDEs.
   (C, 2-clause BSD, [GitLab](https://gitlab.com/petsc/petsc))
 - [DUNE Numerics](https://www.dune-project.org) - Toolbox for solving PDEs with grid-based methods.
   (C++, GPL 2, [GitLab](https://gitlab.dune-project.org/core/))
-- [SciPy](https://www.scipy.org) - Python modules for statistics, optimization, integration, linear algebra, Fourier transforms, signal and image processing, ODE solvers, and more.
+- [SciPy](https://www.scipy.org) - Python modules for statistics, optimization, integration, linear algebra, etc.
   (Python, mostly BSD, [GitHub](https://github.com/scipy/scipy/))
 - [NumPy](https://numpy.org/) - Fundamental package needed for scientific computing with Python.
   (Python, BSD, [GitHub](https://github.com/numpy/numpy))
@@ -54,9 +54,9 @@ them.
 
 ## Finite Elements
 
-- [FEniCS](https://fenicsproject.org) - Open-source computing platform for solving PDEs in Python and C++.
+- [FEniCS](https://fenicsproject.org) - Computing platform for solving PDEs in Python and C++.
   (C++/Python, LGPL 3, [BitBucket](https://bitbucket.org/fenics-project/))
-- [libMesh](https://libmesh.github.io) - Framework for the numerical simulation of PDEs using arbitrary unstructured discretizations.
+- [libMesh](https://libmesh.github.io) - Framework for the numerical simulation of PDEs using unstructured discretizations.
   (C++, LGPL 2.1, [GitHub](https://github.com/libMesh/libmesh))
 - [deal.II](https://dealii.org) - Software library supporting the creation of finite element codes.
   (C++, LGPL 2.1, [GitHub](https://github.com/dealii/dealii))
@@ -91,13 +91,13 @@ them.
   (Python, GPL 3, BitBucket)
 - [MOAB](https://press3.mcs.anl.gov/sigma/moab-library/) - Representing and evaluating mesh data.
   (C++, mostly LGPL3, [BitBucket](https://bitbucket.org/fathomteam/moab/))
-- [NetCDF](https://www.unidata.ucar.edu/software/netcdf/) - Software libraries and data formats for the creation, access, and sharing of array-oriented scientific data.
+- [NetCDF](https://www.unidata.ucar.edu/software/netcdf/) - Software libraries and data formats for array-oriented scientific data.
   (C/C++/Fortran/Java/Python, [custom open-source
   license](https://www.unidata.ucar.edu/software/netcdf/copyright.html),
   [GitHub](https://github.com/Unidata/netcdf-c/))
 - [HDF5](https://support.hdfgroup.org/HDF5/) - Data model, library, and file format for storing and managing data.
   (C/Fortran, BSD)
-- [XDMF](http://www.xdmf.org/index.php/Main_Page) - eXtensible Data Model and Format to exchange scientific data between High Performance Computing codes and tools.
+- [XDMF](http://www.xdmf.org/index.php/Main_Page) - eXtensible Data Model and Format for data from High Performance Computing codes.
   (C++, [GitLab](https://gitlab.kitware.com/xdmf/xdmf))
 - [TetGen](https://www.wias-berlin.de/software/index.jsp?id=TetGen) - Quality tetrahedral mesh generator and 3D Delaunay triangulator.
   (C++, AGPLv3)
@@ -142,16 +142,17 @@ them.
   (Python, BSD, [GitHub](https://github.com/enthought/mayavi))
 - [Polyscope](https://polyscope.run/) - Viewer and user interface for 3D geometry processing.
   (C++, MIT, [GitHub](https://github.com/nmwsharp/polyscope))
-- [PyVista](https://docs.pyvista.org/) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK). (Python, MIT, [GitHub](https://github.com/pyvista/pyvista))
+- [PyVista](https://docs.pyvista.org/) - 3D plotting and mesh analysis through a streamlined interface for VTK.
+  (Python, MIT, [GitHub](https://github.com/pyvista/pyvista))
 
 ## Other libraries and tools
 
-- [FFTW](http://www.fftw.org) - Discrete Fourier transforms in one or more dimensions, of arbitrary input size, and of both real and complex data.
+- [FFTW](http://www.fftw.org) - Discrete Fourier transforms in one or more dimensions, of arbitrary input size, real and complex.
   (C, GPL2, [GitHub](https://github.com/FFTW/fftw3))
-- [Qhull](http://www.qhull.org) - Convex hull, Delaunay triangulation, Voronoi diagram, halfspace intersection about a point, furthest-site Delaunay triangulation, and furthest-site Voronoi diagram.
+- [Qhull](http://www.qhull.org) - Convex hull, Delaunay triangulation, Voronoi diagram, halfspace intersection about a point, etc.
   (C/C++, [custom open source license](http://www.qhull.org/COPYING.txt),
   [GitHub](https://github.com/qhull/qhull/))
-- [GSL](https://www.gnu.org/software/gsl/) - Wide range of mathematical routines such as random number generators, special functions, and least-squares fitting.
+- [GSL](https://www.gnu.org/software/gsl/) - Random number generators, special functions, and least-squares fitting etc.
   (C/C++, GPL 3, [Savannah](https://savannah.gnu.org/projects/gsl))
 - [OpenFOAM](https://www.openfoam.com) - Free, open source CFD (computational fluid dynamics) software.
   (C++, GPL 3, [GitHub](https://github.com/OpenFOAM/OpenFOAM-dev))
