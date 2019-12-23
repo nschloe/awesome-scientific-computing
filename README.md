@@ -142,7 +142,7 @@ them.
   (Python, BSD, [GitHub](https://github.com/enthought/mayavi))
 - [Polyscope](https://polyscope.run/) - Viewer and user interface for 3D geometry processing.
   (C++, MIT, [GitHub](https://github.com/nmwsharp/polyscope))
-- [PyVista](https://docs.pyvista.org/) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK) (Python, MIT, [GitHub](https://github.com/pyvista/pyvista))
+- [PyVista](https://docs.pyvista.org/) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK). (Python, MIT, [GitHub](https://github.com/pyvista/pyvista))
 
 ## Other libraries and tools
 
