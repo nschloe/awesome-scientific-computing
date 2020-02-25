@@ -120,6 +120,8 @@ them.
   (C++, GPL 3, [GitHub](https://github.com/Yixin-Hu/TetWild))
 - [TriWild](https://cs.nyu.edu/~yixinhu/triwild.pdf) -  Robust Triangulation with Curve Constraints.
   (C++, MPL 2, [GitHub](https://github.com/wildmeshing/TriWild))
+- [fTetWild](https://arxiv.org/abs/1908.03581) - Fast Tetrahedral Meshing in the Wild.
+  (C++, MPL 2, [GitHub](https://github.com/wildmeshing/fTetWild))
 
 ## Sparse linear solvers
 
@@ -164,7 +166,7 @@ them.
   [GitHub](https://github.com/usnistgov/fipy))
 - [accupy](https://github.com/nschloe/accupy) - Accurate sums and dot products for Python.
   (Python, MIT, GitHub)
-- [SLEPc](http://slepc.upv.es) - Scalable Library for Eigenvalue Problem Computations.
+- [SLEPc](https://slepc.upv.es) - Scalable Library for Eigenvalue Problem Computations.
   (C, 2-clause BSD, [BitBucket](https://bitbucket.org/slepc/slepc/src/master/))
 - [Chebfun](https://www.chebfun.org/) - Computing with functions to about 15-digit accuracy.
   (MATLAB, BSD, [GitHub](https://github.com/chebfun/chebfun))
