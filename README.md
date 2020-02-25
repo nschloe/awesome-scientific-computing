@@ -35,7 +35,7 @@ them.
 - [LAPACK](https://www.netlib.org/lapack/) - Routines for solving systems of linear equations, linear least-squares, eigenvalue problems, etc.
   (Fortran, BSD, [GitHub](https://github.com/Reference-LAPACK/lapack))
 - [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) - C++ template library for linear algebra.
-  (C++, MPL 2, [BitBucket](https://bitbucket.org/eigen/eigen))
+  (C++, MPL 2, [GitLab](https://gitlab.com/libeigen/eigen))
 - [Ginkgo](https://ginkgo-project.github.io/) - High-performance manycore linear algebra library, focus on sparse systems.
   (C++, BSD, [GitHub](https://github.com/ginkgo-project/ginkgo))
 
@@ -167,7 +167,7 @@ them.
 - [accupy](https://github.com/nschloe/accupy) - Accurate sums and dot products for Python.
   (Python, MIT, GitHub)
 - [SLEPc](https://slepc.upv.es) - Scalable Library for Eigenvalue Problem Computations.
-  (C, 2-clause BSD, [BitBucket](https://bitbucket.org/slepc/slepc/src/master/))
+  (C, 2-clause BSD, [GitLab](https://gitlab.com/slepc/slepc))
 - [Chebfun](https://www.chebfun.org/) - Computing with functions to about 15-digit accuracy.
   (MATLAB, BSD, [GitHub](https://github.com/chebfun/chebfun))
 - [pyMOR](https://pymor.org/) - Model Order Reduction with Python.
