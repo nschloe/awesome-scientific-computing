@@ -166,7 +166,7 @@ them.
   [GitHub](https://github.com/usnistgov/fipy))
 - [accupy](https://github.com/nschloe/accupy) - Accurate sums and dot products for Python.
   (Python, MIT, GitHub)
-- [SLEPc](http://slepc.upv.es) - Scalable Library for Eigenvalue Problem Computations.
+- [SLEPc](https://slepc.upv.es) - Scalable Library for Eigenvalue Problem Computations.
   (C, 2-clause BSD, [BitBucket](https://bitbucket.org/slepc/slepc/src/master/))
 - [Chebfun](https://www.chebfun.org/) - Computing with functions to about 15-digit accuracy.
   (MATLAB, BSD, [GitHub](https://github.com/chebfun/chebfun))
