@@ -8,9 +8,9 @@ jobs:
     steps:
       - checkout
       - run: apt update
-      - run: apt install -y npm git
+      - run: apt install -y npm
       - run: npm install --global awesome-lint
-      - run: awesome-lint ~/work/README.md
-      - run: apt install -y ruby
-      - run: gem install awesome_bot
-      - run: awesome_bot --white-list https://awesome.re,https://portal.nersc.gov/project/sparse/superlu/ ~/work/README.md
+      - run: awesome-lint README.md
+      # - run: apt install -y ruby
+      # - run: gem install awesome_bot
+      # - run: awesome_bot --white-list https://awesome.re,https://portal.nersc.gov/project/sparse/superlu/ README.md
