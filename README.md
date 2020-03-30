@@ -72,6 +72,8 @@ them.
   (Python, BSD, [GitHub](https://github.com/sfepy/sfepy))
 - [FreeFEM](https://freefem.org) - High level multiphysics-multimesh finite element language.
   (C++, LGPL, [GitHub](https://github.com/FreeFem))
+- [libceed](https://libceed.readthedocs.io/en/latest/index.html) - Code for Efficient Extensible Discretizations.
+  (C, 2-clause BSD, [GitHub](https://github.com/CEED/libCEED))
 
 ## Meshing
 

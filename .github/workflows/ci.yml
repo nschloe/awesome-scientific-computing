@@ -6,12 +6,14 @@ jobs:
   lint:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v2
     #
+    # git needed for awesome-lint
+    - run: sudo apt install git
     - run: sudo npm install --global awesome-lint
     - run: awesome-lint README.md
     #
-    - run: sudo apt install -y ruby
-    - run: sudo gem install awesome_bot
-    # Allow redirect for awesome.re
-    - run: awesome_bot --white-list https://awesome.re,https://portal.nersc.gov/project/sparse/superlu/ README.md
+    # - run: sudo apt install -y ruby
+    # - run: sudo gem install awesome_bot
+    # # Allow redirect for awesome.re
+    # - run: awesome_bot --white-list https://awesome.re,https://portal.nersc.gov/project/sparse/superlu/ README.md
