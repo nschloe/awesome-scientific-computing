@@ -8,7 +8,8 @@ jobs:
     steps:
       - checkout
       - run: apt update
-      - run: apt install -y npm
+      # git needed for awesome-lint
+      - run: apt install -y npm git
       - run: npm install --global awesome-lint
       - run: awesome-lint ~/work/README.md
       # - run: apt install -y ruby

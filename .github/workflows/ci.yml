@@ -8,6 +8,8 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     #
+    # git needed for awesome-lint
+    - run: sudo apt install git
     - run: sudo npm install --global awesome-lint
     - run: awesome-lint README.md
     #
