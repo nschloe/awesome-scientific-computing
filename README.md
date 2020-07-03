@@ -120,7 +120,7 @@ them.
 - [meshplex](https://github.com/nschloe/meshplex) - Fast tools for simplex meshes. (Python, MIT, GitHub)
 - [TetWild](https://cs.nyu.edu/~yixinhu/tetwild.pdf) - Robust Tetrahedral Meshing in the Wild.
   (C++, GPL 3, [GitHub](https://github.com/Yixin-Hu/TetWild))
-- [TriWild](https://cs.nyu.edu/~yixinhu/triwild.pdf) -  Robust Triangulation with Curve Constraints.
+- [TriWild](https://cims.nyu.edu/gcl/papers/2019-TriWild.pdf) -  Robust Triangulation with Curve Constraints.
   (C++, MPL 2, [GitHub](https://github.com/wildmeshing/TriWild))
 - [fTetWild](https://arxiv.org/abs/1908.03581) - Fast Tetrahedral Meshing in the Wild.
   (C++, MPL 2, [GitHub](https://github.com/wildmeshing/fTetWild))
