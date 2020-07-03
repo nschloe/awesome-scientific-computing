@@ -7,6 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+      fetch-depth: 0  # fetch all history to avoid git-repo-age false positive
     #
     # git needed for awesome-lint
     - run: sudo apt install git
