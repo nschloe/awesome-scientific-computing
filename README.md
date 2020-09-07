@@ -160,7 +160,6 @@ them.
   (C/C++, GPL 3, [Savannah](https://savannah.gnu.org/projects/gsl))
 - [OpenFOAM](https://www.openfoam.com) - Free, open source CFD (computational fluid dynamics) software.
   (C++, GPL 3, [GitHub](https://github.com/OpenFOAM/OpenFOAM-dev))
-- [preCICE](https://www.precice.org/) - A coupling library for partitioned multi-physics simulations (FSI, CHT, ...). (C++, LGPL 3, [GitHub](https://github.com/precice/))
 - [quadpy](https://github.com/nschloe/quadpy) - Numerical integration (quadrature, cubature) in Python.
   (Python, MIT, GitHub)
 - [FiPy](https://www.ctcms.nist.gov/fipy/) - Finite-volume PDF solver.
@@ -181,7 +180,7 @@ them.
   (Python, MIT, [GitHub](https://github.com/PyWavelets/pywt))
 - [NFFT](https://www-user.tu-chemnitz.de/~potts/nfft/) - Nonequispaced fast Fourier transform.
   (C/MATLAB, GPL 2, [GitHub](https://github.com/NFFT/nfft))
-
+- [preCICE](https://www.precice.org/) - Coupling library for partitioned multi-physics simulations (FSI, CHT, and more). (C++, LGPL 3, [GitHub](https://github.com/precice/))
 
 ## Community
 
