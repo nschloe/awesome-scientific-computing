@@ -180,7 +180,7 @@ them.
   (Python, MIT, [GitHub](https://github.com/PyWavelets/pywt))
 - [NFFT](https://www-user.tu-chemnitz.de/~potts/nfft/) - Nonequispaced fast Fourier transform.
   (C/MATLAB, GPL 2, [GitHub](https://github.com/NFFT/nfft))
-
+- [preCICE](https://www.precice.org/) - Coupling library for partitioned multi-physics simulations (FSI, CHT, and more). (C++, LGPL 3, [GitHub](https://github.com/precice/))
 
 ## Community
 
