@@ -57,7 +57,7 @@ them.
 ## Finite Elements
 
 - [FEniCS](https://fenicsproject.org) - Computing platform for solving PDEs in Python and C++.
-  (C++/Python, LGPL 3, [BitBucket](https://bitbucket.org/fenics-project/))
+  (C++/Python, LGPL 3, [Bitbucket](https://bitbucket.org/fenics-project/))
 - [libMesh](https://libmesh.github.io) - Framework for the numerical simulation of PDEs using unstructured discretizations.
   (C++, LGPL 2.1, [GitHub](https://github.com/libMesh/libmesh))
 - [deal.II](https://dealii.org) - Software library supporting the creation of finite element codes.
@@ -92,9 +92,9 @@ them.
 - [pygalmesh](https://github.com/nschloe/pygalmesh) - Python interface for CGAL's 3D meshing capabilities.
   (Python, MIT, GitHub)
 - [mshr](https://bitbucket.org/fenics-project/mshr/) - Mesh generation component of FEniCS.
-  (Python, GPL 3, BitBucket)
+  (Python, GPL 3, Bitbucket)
 - [MOAB](https://press3.mcs.anl.gov/sigma/moab-library/) - Representing and evaluating mesh data.
-  (C++, mostly LGPL3, [BitBucket](https://bitbucket.org/fathomteam/moab/))
+  (C++, mostly LGPL 3, [Bitbucket](https://bitbucket.org/fathomteam/moab/))
 - [NetCDF](https://www.unidata.ucar.edu/software/netcdf/) - Software libraries and data formats for array-oriented scientific data.
   (C/C++/Fortran/Java/Python, [custom open-source
   license](https://www.unidata.ucar.edu/software/netcdf/copyright.html),
