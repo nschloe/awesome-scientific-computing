@@ -38,6 +38,8 @@ them.
   (C++, MPL 2, [GitLab](https://gitlab.com/libeigen/eigen))
 - [Ginkgo](https://ginkgo-project.github.io/) - High-performance manycore linear algebra library, focus on sparse systems.
   (C++, BSD, [GitHub](https://github.com/ginkgo-project/ginkgo))
+- [Blaze](https://bitbucket.org/blaze-lib/blaze/src/master/) - High-performance C++ math library for dense and sparse arithmetic (includes e.g. parallelization backend, vectorization, etc. )
+  (C++, BSD, [BitBucket](https://bitbucket.org/blaze-lib/blaze/src/master/))
 
 
 ## Multi-purpose toolkits
