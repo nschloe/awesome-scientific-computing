@@ -164,9 +164,9 @@ them.
   (C++, GPL 3, [GitHub](https://github.com/OpenFOAM/OpenFOAM-dev))
 - [quadpy](https://github.com/nschloe/quadpy) - Numerical integration (quadrature, cubature) in Python.
   (Python, MIT, GitHub)
-- [FiPy](https://www.ctcms.nist.gov/fipy/) - Finite-volume PDF solver.
+- [FiPy](https://www.ctcms.nist.gov/fipy/) - Finite-volume PDE solver.
   (Python, [custom open-source
-  license](https://www.nist.gov/topics/data/public-access-nist-research/copyright-fair-use-and-licensing-statements-srd-data-and),
+  license](https://www.nist.gov/open/copyright-fair-use-and-licensing-statements-srd-data-software-and-technical-series-publications),
   [GitHub](https://github.com/usnistgov/fipy))
 - [accupy](https://github.com/nschloe/accupy) - Accurate sums and dot products for Python.
   (Python, MIT, GitHub)
@@ -194,10 +194,3 @@ them.
 - [Jack Dongarra's software list](https://www.netlib.org/utk/people/JackDongarra/la-sw.html) - List of freely available software for the solution of linear algebra problems.
 - [NA Digest](https://www.netlib.org/na-digest-html/) - Collection of articles on topics related to numerical analysis and those who practice it.
 - [Gabriel Peyré on Twitter](https://twitter.com/gabrielpeyre) - One tweet a day on computational mathematics.
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Nico Schlömer](https://github.com/nschloe)
-has waived all copyright and related or neighboring rights to this work.
