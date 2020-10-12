@@ -164,7 +164,7 @@ them.
   (C++, GPL 3, [GitHub](https://github.com/OpenFOAM/OpenFOAM-dev))
 - [quadpy](https://github.com/nschloe/quadpy) - Numerical integration (quadrature, cubature) in Python.
   (Python, MIT, GitHub)
-- [FiPy](https://www.ctcms.nist.gov/fipy/) - Finite-volume PDF solver.
+- [FiPy](https://www.ctcms.nist.gov/fipy/) - Finite-volume PDE solver.
   (Python, [custom open-source
   license](https://www.nist.gov/topics/data/public-access-nist-research/copyright-fair-use-and-licensing-statements-srd-data-and),
   [GitHub](https://github.com/usnistgov/fipy))
