@@ -126,6 +126,8 @@ them.
   (C++, MPL 2, [GitHub](https://github.com/wildmeshing/TriWild))
 - [fTetWild](https://arxiv.org/abs/1908.03581) - Fast Tetrahedral Meshing in the Wild.
   (C++, MPL 2, [GitHub](https://github.com/wildmeshing/fTetWild))
+- [FEconv](http://victorsndvg.github.io/FEconv/description.xhtml) - Simple finite element mesh conversion utility.
+  (Fortran, GPL 3, [GitHub](https://github.com/victorsndvg/FEconv))
 
 ## Sparse linear solvers
 
