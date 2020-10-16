@@ -150,6 +150,8 @@ them.
   (C++, MIT, [GitHub](https://github.com/nmwsharp/polyscope))
 - [PyVista](https://docs.pyvista.org/) - 3D plotting and mesh analysis through a streamlined interface for VTK.
   (Python, MIT, [GitHub](https://github.com/pyvista/pyvista))
+- [vedo](https://vedo.embl.es) - Library for scientific analysis and visualization of 3D objects based on VTK.
+  (Python, MIT, [GitHub](https://github.com/marcomusy/vedo))
 
 ## Other libraries and tools
 
