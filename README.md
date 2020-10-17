@@ -117,8 +117,10 @@ them.
   (Python, MIT, [GitHub](https://github.com/mikedh/trimesh))
 - [dmsh](https://github.com/nschloe/dmsh) - Simple generator for unstructured triangular meshes, inspired by distmesh.
   (Python, GPL 3, GitHub)
-- [pmp-library](https://www.pmp-library.org/) - Polygon mesh processing library. (C++, MIT with Employer Disclaimer, [GitHub](https://github.com/pmp-library/pmp-library/))
-- [Mmg](https://www.mmgtools.org/) - Robust, open-source & multidisciplinary software for remeshing. (C, LGPL 3, [GitHub](https://github.com/MmgTools/mmg))
+- [pmp-library](https://www.pmp-library.org/) - Polygon mesh processing library.
+  (C++, MIT with Employer Disclaimer, [GitHub](https://github.com/pmp-library/pmp-library/))
+- [Mmg](https://www.mmgtools.org/) - Robust, open-source & multidisciplinary software for remeshing.
+  (C, LGPL 3, [GitHub](https://github.com/MmgTools/mmg))
 - [meshplex](https://github.com/nschloe/meshplex) - Fast tools for simplex meshes. (Python, GPL 3, GitHub)
 - [TetWild](https://cs.nyu.edu/~yixinhu/tetwild.pdf) - Robust Tetrahedral Meshing in the Wild.
   (C++, GPL 3, [GitHub](https://github.com/Yixin-Hu/TetWild))
@@ -184,7 +186,8 @@ them.
   (Python, MIT, [GitHub](https://github.com/PyWavelets/pywt))
 - [NFFT](https://www-user.tu-chemnitz.de/~potts/nfft/) - Nonequispaced fast Fourier transform.
   (C/MATLAB, GPL 2, [GitHub](https://github.com/NFFT/nfft))
-- [preCICE](https://www.precice.org/) - Coupling library for partitioned multi-physics simulations (FSI, CHT, and more). (C++, LGPL 3, [GitHub](https://github.com/precice/))
+- [preCICE](https://www.precice.org/) - Coupling library for partitioned multi-physics simulations (FSI, CHT, and more).
+  (C++, LGPL 3, [GitHub](https://github.com/precice/))
 
 ## Community
 
