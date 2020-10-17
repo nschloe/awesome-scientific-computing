@@ -188,6 +188,8 @@ them.
   (C/MATLAB, GPL 2, [GitHub](https://github.com/NFFT/nfft))
 - [preCICE](https://www.precice.org/) - Coupling library for partitioned multi-physics simulations (FSI, CHT, and more).
   (C++, LGPL 3, [GitHub](https://github.com/precice/))
+- [orthopy](https://github.com/nschloe/orthopy) - Compute orthogonal polynomials efficiently.
+  (Python, GPL 3, GitHub)
 
 ## Community
 
