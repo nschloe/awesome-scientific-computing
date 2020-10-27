@@ -154,6 +154,8 @@ them.
   (Python, MIT, [GitHub](https://github.com/pyvista/pyvista))
 - [vedo](https://vedo.embl.es) - Library for scientific analysis and visualization of 3D objects based on VTK.
   (Python, MIT, [GitHub](https://github.com/marcomusy/vedo))
+- [yt](https://yt-project.org/) - A toolkit for analysis and visualization of volumetric data.
+  (Python, BSD, [GitHub](https://github.com/yt-project/yt))
 
 ## Other libraries and tools
 
