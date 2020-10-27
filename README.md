@@ -66,7 +66,7 @@ them.
   (C++, LGPL 2.1, [GitHub](https://github.com/NGSolve/netgen))
 - [Firedrake](https://www.firedrakeproject.org) - Automated system for the solution of PDEs using the finite element method.
   (Python, LGPL 3, [GitHub](https://github.com/firedrakeproject/firedrake))
-- [MOOSE](https://www.mooseframework.org) - Multiphysics Object Oriented Simulation Environment.
+- [MOOSE](https://mooseframework.inl.gov/) - Multiphysics Object Oriented Simulation Environment.
   (C++, LGPL 2.1, [GitHub](https://github.com/idaholab/moose))
 - [MFEM](https://mfem.org) - Free, lightweight, scalable C++ library for finite element methods.
   (C++, LGPL 2.1, [GitHub](https://github.com/mfem/mfem))
@@ -154,6 +154,8 @@ them.
   (Python, MIT, [GitHub](https://github.com/pyvista/pyvista))
 - [vedo](https://vedo.embl.es) - Library for scientific analysis and visualization of 3D objects based on VTK.
   (Python, MIT, [GitHub](https://github.com/marcomusy/vedo))
+- [yt](https://yt-project.org/) - A toolkit for analysis and visualization of volumetric data.
+  (Python, BSD, [GitHub](https://github.com/yt-project/yt))
 
 ## Other libraries and tools
 
