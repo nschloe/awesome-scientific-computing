@@ -128,7 +128,8 @@ them.
   (C++, MPL 2, [GitHub](https://github.com/wildmeshing/TriWild))
 - [fTetWild](https://arxiv.org/abs/1908.03581) - Fast Tetrahedral Meshing in the Wild.
   (C++, MPL 2, [GitHub](https://github.com/wildmeshing/fTetWild))
-
+- [SeismicMesh](https://github.com/krober10nd/SeismicMesh) - Parallel 2D/3D triangle/tetrahedral mesh generation with sliver removal.
+   (Python and C++, GPL 3, GitHub)
 ## Sparse linear solvers
 
 - [SuperLU](https://portal.nersc.gov/project/sparse/superlu/) - Direct solution of large, sparse, nonsymmetric systems of linear equations.
