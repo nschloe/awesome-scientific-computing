@@ -133,6 +133,8 @@ them.
   (C/Fortran, BSD)
 - [XDMF](https://www.xdmf.org/index.php/Main_Page) - eXtensible Data Model and Format for data from High Performance Computing codes.
   (C++, [GitLab](https://gitlab.kitware.com/xdmf/xdmf))
+- [Zarr](https://zarr.readthedocs.io/en/stable/) - Format for the storage of chunked, compressed, N-dimensional arrays.
+  (Python, MIT, [GitHub](https://github.com/zarr-developers/zarr-python))
 
 ## Sparse linear solvers
 
