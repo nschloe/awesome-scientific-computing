@@ -199,6 +199,8 @@ them.
   (C++, LGPL 3, [GitHub](https://github.com/precice/))
 - [orthopy](https://github.com/nschloe/orthopy) - Compute orthogonal polynomials efficiently.
   (Python, GPL 3, GitHub)
+- [pyGAM](https://pygam.readthedocs.io/en/latest/) - Generalized Additive Models in Python.
+  (Python, Apache 2.0, [GitHub](https://github.com/dswah/pyGAM))
 
 ## Community
 
