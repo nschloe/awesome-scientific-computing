@@ -18,6 +18,7 @@ them.
 - [Multi-purpose toolkits](#multi-purpose-toolkits)
 - [Finite Elements](#finite-elements)
 - [Meshing](#meshing)
+- [Data formats](#data-formats)
 - [Sparse linear solvers](#sparse-linear-solvers)
 - [Visualization](#visualization)
 - [Other libraries and tools](#other-libraries-and-tools)
@@ -34,7 +35,7 @@ them.
   (C, BSD, GitHub)
 - [LAPACK](https://www.netlib.org/lapack/) - Routines for solving systems of linear equations, linear least-squares, eigenvalue problems, etc.
   (Fortran, BSD, [GitHub](https://github.com/Reference-LAPACK/lapack))
-- [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) - C++ template library for linear algebra.
+- [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) - C++ template library for linear algebra.
   (C++, MPL 2, [GitLab](https://gitlab.com/libeigen/eigen))
 - [Ginkgo](https://ginkgo-project.github.io/) - High-performance manycore linear algebra library, focus on sparse systems.
   (C++, BSD, [GitHub](https://github.com/ginkgo-project/ginkgo))
@@ -79,7 +80,7 @@ them.
 
 ## Meshing
 
-- [Gmsh](http://gmsh.info) - Three-dimensional finite element mesh generator with pre- and post-processing facilities.
+- [Gmsh](https://gmsh.info) - Three-dimensional finite element mesh generator with pre- and post-processing facilities.
   (C++, GPL, [GitLab](https://gitlab.onelab.info/gmsh/gmsh))
 - [pygmsh](https://github.com/nschloe/pygmsh) - Python interface for Gmsh.
   (Python, GPL 3, GitHub)
@@ -93,16 +94,8 @@ them.
   (Python, GPL 3, GitHub)
 - [mshr](https://bitbucket.org/fenics-project/mshr/) - Mesh generation component of FEniCS.
   (Python, GPL 3, Bitbucket)
-- [MOAB](https://press3.mcs.anl.gov/sigma/moab-library/) - Representing and evaluating mesh data.
+- [MOAB](https://sigma.mcs.anl.gov/moab-library/) - Representing and evaluating mesh data.
   (C++, mostly LGPL 3, [Bitbucket](https://bitbucket.org/fathomteam/moab/))
-- [NetCDF](https://www.unidata.ucar.edu/software/netcdf/) - Software libraries and data formats for array-oriented scientific data.
-  (C/C++/Fortran/Java/Python, [custom open-source
-  license](https://www.unidata.ucar.edu/software/netcdf/copyright.html),
-  [GitHub](https://github.com/Unidata/netcdf-c/))
-- [HDF5](https://support.hdfgroup.org/HDF5/) - Data model, library, and file format for storing and managing data.
-  (C/Fortran, BSD)
-- [XDMF](http://www.xdmf.org/index.php/Main_Page) - eXtensible Data Model and Format for data from High Performance Computing codes.
-  (C++, [GitLab](https://gitlab.kitware.com/xdmf/xdmf))
 - [TetGen](https://www.wias-berlin.de/software/index.jsp?id=TetGen) - Quality tetrahedral mesh generator and 3D Delaunay triangulator.
   (C++, AGPLv3)
 - [Triangle](https://www.cs.cmu.edu/~quake/triangle.html) - Two-dimensional quality mesh generator and Delaunay triangulator.
@@ -130,6 +123,20 @@ them.
   (C++, MPL 2, [GitHub](https://github.com/wildmeshing/fTetWild))
 - [SeismicMesh](https://github.com/krober10nd/SeismicMesh) - Parallel 2D/3D triangle/tetrahedral mesh generation with sliver removal.
    (Python and C++, GPL 3, GitHub)
+
+## Data formats
+
+- [NetCDF](https://www.unidata.ucar.edu/software/netcdf/) - Software libraries and data formats for array-oriented scientific data.
+  (C/C++/Fortran/Java/Python, [custom open-source
+  license](https://www.unidata.ucar.edu/software/netcdf/copyright.html),
+  [GitHub](https://github.com/Unidata/netcdf-c/))
+- [HDF5](https://support.hdfgroup.org/HDF5/) - Data model, library, and file format for storing and managing data.
+  (C/Fortran, BSD, [GitHub](https://github.com/HDFGroup/hdf5))
+- [XDMF](https://www.xdmf.org/index.php/Main_Page) - eXtensible Data Model and Format for data from High Performance Computing codes.
+  (C++, [GitLab](https://gitlab.kitware.com/xdmf/xdmf))
+- [Zarr](https://zarr.readthedocs.io/en/stable/) - Format for the storage of chunked, compressed, N-dimensional arrays.
+  (Python, MIT, [GitHub](https://github.com/zarr-developers/zarr-python))
+
 ## Sparse linear solvers
 
 - [SuperLU](https://portal.nersc.gov/project/sparse/superlu/) - Direct solution of large, sparse, nonsymmetric systems of linear equations.
@@ -193,6 +200,8 @@ them.
   (C++, LGPL 3, [GitHub](https://github.com/precice/))
 - [orthopy](https://github.com/nschloe/orthopy) - Compute orthogonal polynomials efficiently.
   (Python, GPL 3, GitHub)
+- [pyGAM](https://pygam.readthedocs.io/en/latest/) - Generalized Additive Models in Python.
+  (Python, Apache 2.0, [GitHub](https://github.com/dswah/pyGAM))
 
 ## Community
 
