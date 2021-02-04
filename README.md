@@ -35,7 +35,7 @@ them.
   (C, BSD, GitHub)
 - [LAPACK](https://www.netlib.org/lapack/) - Routines for solving systems of linear equations, linear least-squares, eigenvalue problems, etc.
   (Fortran, BSD, [GitHub](https://github.com/Reference-LAPACK/lapack))
-- [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) - C++ template library for linear algebra.
+- [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) - C++ template library for linear algebra.
   (C++, MPL 2, [GitLab](https://gitlab.com/libeigen/eigen))
 - [Ginkgo](https://ginkgo-project.github.io/) - High-performance manycore linear algebra library, focus on sparse systems.
   (C++, BSD, [GitHub](https://github.com/ginkgo-project/ginkgo))
@@ -80,7 +80,7 @@ them.
 
 ## Meshing
 
-- [Gmsh](http://gmsh.info) - Three-dimensional finite element mesh generator with pre- and post-processing facilities.
+- [Gmsh](https://gmsh.info) - Three-dimensional finite element mesh generator with pre- and post-processing facilities.
   (C++, GPL, [GitLab](https://gitlab.onelab.info/gmsh/gmsh))
 - [pygmsh](https://github.com/nschloe/pygmsh) - Python interface for Gmsh.
   (Python, GPL 3, GitHub)
@@ -94,7 +94,7 @@ them.
   (Python, GPL 3, GitHub)
 - [mshr](https://bitbucket.org/fenics-project/mshr/) - Mesh generation component of FEniCS.
   (Python, GPL 3, Bitbucket)
-- [MOAB](https://press3.mcs.anl.gov/sigma/moab-library/) - Representing and evaluating mesh data.
+- [MOAB](https://sigma.mcs.anl.gov/moab-library/) - Representing and evaluating mesh data.
   (C++, mostly LGPL 3, [Bitbucket](https://bitbucket.org/fathomteam/moab/))
 - [TetGen](https://www.wias-berlin.de/software/index.jsp?id=TetGen) - Quality tetrahedral mesh generator and 3D Delaunay triangulator.
   (C++, AGPLv3)
