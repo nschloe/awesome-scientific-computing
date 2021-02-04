@@ -18,6 +18,7 @@ them.
 - [Multi-purpose toolkits](#multi-purpose-toolkits)
 - [Finite Elements](#finite-elements)
 - [Meshing](#meshing)
+- [Data formats](#data-formats)
 - [Sparse linear solvers](#sparse-linear-solvers)
 - [Visualization](#visualization)
 - [Other libraries and tools](#other-libraries-and-tools)
