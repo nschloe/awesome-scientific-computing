@@ -101,7 +101,7 @@ them.
   [GitHub](https://github.com/Unidata/netcdf-c/))
 - [HDF5](https://support.hdfgroup.org/HDF5/) - Data model, library, and file format for storing and managing data.
   (C/Fortran, BSD)
-- [XDMF](http://www.xdmf.org/index.php/Main_Page) - eXtensible Data Model and Format for data from High Performance Computing codes.
+- [XDMF](https://www.xdmf.org/index.php/Main_Page) - eXtensible Data Model and Format for data from High Performance Computing codes.
   (C++, [GitLab](https://gitlab.kitware.com/xdmf/xdmf))
 - [TetGen](https://www.wias-berlin.de/software/index.jsp?id=TetGen) - Quality tetrahedral mesh generator and 3D Delaunay triangulator.
   (C++, AGPLv3)
