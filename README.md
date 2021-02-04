@@ -130,7 +130,7 @@ them.
   license](https://www.unidata.ucar.edu/software/netcdf/copyright.html),
   [GitHub](https://github.com/Unidata/netcdf-c/))
 - [HDF5](https://support.hdfgroup.org/HDF5/) - Data model, library, and file format for storing and managing data.
-  (C/Fortran, BSD)
+  (C/Fortran, BSD, [GitHub](https://github.com/HDFGroup/hdf5))
 - [XDMF](https://www.xdmf.org/index.php/Main_Page) - eXtensible Data Model and Format for data from High Performance Computing codes.
   (C++, [GitLab](https://gitlab.kitware.com/xdmf/xdmf))
 - [Zarr](https://zarr.readthedocs.io/en/stable/) - Format for the storage of chunked, compressed, N-dimensional arrays.
