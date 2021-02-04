@@ -95,14 +95,6 @@ them.
   (Python, GPL 3, Bitbucket)
 - [MOAB](https://press3.mcs.anl.gov/sigma/moab-library/) - Representing and evaluating mesh data.
   (C++, mostly LGPL 3, [Bitbucket](https://bitbucket.org/fathomteam/moab/))
-- [NetCDF](https://www.unidata.ucar.edu/software/netcdf/) - Software libraries and data formats for array-oriented scientific data.
-  (C/C++/Fortran/Java/Python, [custom open-source
-  license](https://www.unidata.ucar.edu/software/netcdf/copyright.html),
-  [GitHub](https://github.com/Unidata/netcdf-c/))
-- [HDF5](https://support.hdfgroup.org/HDF5/) - Data model, library, and file format for storing and managing data.
-  (C/Fortran, BSD)
-- [XDMF](https://www.xdmf.org/index.php/Main_Page) - eXtensible Data Model and Format for data from High Performance Computing codes.
-  (C++, [GitLab](https://gitlab.kitware.com/xdmf/xdmf))
 - [TetGen](https://www.wias-berlin.de/software/index.jsp?id=TetGen) - Quality tetrahedral mesh generator and 3D Delaunay triangulator.
   (C++, AGPLv3)
 - [Triangle](https://www.cs.cmu.edu/~quake/triangle.html) - Two-dimensional quality mesh generator and Delaunay triangulator.
@@ -130,6 +122,18 @@ them.
   (C++, MPL 2, [GitHub](https://github.com/wildmeshing/fTetWild))
 - [SeismicMesh](https://github.com/krober10nd/SeismicMesh) - Parallel 2D/3D triangle/tetrahedral mesh generation with sliver removal.
    (Python and C++, GPL 3, GitHub)
+
+## Data formats
+
+- [NetCDF](https://www.unidata.ucar.edu/software/netcdf/) - Software libraries and data formats for array-oriented scientific data.
+  (C/C++/Fortran/Java/Python, [custom open-source
+  license](https://www.unidata.ucar.edu/software/netcdf/copyright.html),
+  [GitHub](https://github.com/Unidata/netcdf-c/))
+- [HDF5](https://support.hdfgroup.org/HDF5/) - Data model, library, and file format for storing and managing data.
+  (C/Fortran, BSD)
+- [XDMF](https://www.xdmf.org/index.php/Main_Page) - eXtensible Data Model and Format for data from High Performance Computing codes.
+  (C++, [GitLab](https://gitlab.kitware.com/xdmf/xdmf))
+
 ## Sparse linear solvers
 
 - [SuperLU](https://portal.nersc.gov/project/sparse/superlu/) - Direct solution of large, sparse, nonsymmetric systems of linear equations.
