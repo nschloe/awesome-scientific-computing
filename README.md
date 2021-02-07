@@ -202,6 +202,8 @@ them.
   (Python, GPL 3, GitHub)
 - [pyGAM](https://pygam.readthedocs.io/en/latest/) - Generalized Additive Models in Python.
   (Python, Apache 2.0, [GitHub](https://github.com/dswah/pyGAM))
+- [devsim](https://devsim.org) - DEVSIM TCAD Semiconductor Device Simulator.
+  (C++/Python, Apache 2.0, [GitHub](https://github.com/devsim/devsim))
 
 ## Community
 
