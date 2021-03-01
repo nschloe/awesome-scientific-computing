@@ -206,6 +206,8 @@ them.
   (Python, GPL 3, GitHub)
 - [pyGAM](https://pygam.readthedocs.io/en/latest/) - Generalized Additive Models in Python.
   (Python, Apache 2.0, [GitHub](https://github.com/dswah/pyGAM))
+- [Dedalus](https://dedalus-project.org/) - Solve partial differential equations with spectral methods.
+  (Python, GPL 3, [GitHub](https://github.com/DedalusProject/dedalus))
 
 ## Community
 
