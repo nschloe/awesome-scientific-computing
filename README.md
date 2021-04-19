@@ -208,7 +208,7 @@ them.
   (Python, Apache 2.0, [GitHub](https://github.com/dswah/pyGAM))
 - [Dedalus](https://dedalus-project.org/) - Solve partial differential equations with spectral methods.
   (Python, GPL 3, [GitHub](https://github.com/DedalusProject/dedalus))
-- [pygmo](https://esa.github.io/pygmo/) - Massively parallel optimization.
+- [PyGMO](https://esa.github.io/pygmo/) - Massively parallel optimization.
   (Python/C++, MPL 2, [GitHub](https://github.com/esa/pygmo2))
 
 ## Community
