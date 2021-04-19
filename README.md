@@ -200,7 +200,7 @@ them.
   (Python, MIT, [GitHub](https://github.com/PyWavelets/pywt))
 - [NFFT](https://www-user.tu-chemnitz.de/~potts/nfft/) - Nonequispaced fast Fourier transform.
   (C/MATLAB, GPL 2, [GitHub](https://github.com/NFFT/nfft))
-- [preCICE](https://www.precice.org/) - Coupling library for partitioned multi-physics simulations (FSI, CHT, and more).
+- [preCICE](https://precice.org/) - Coupling library for partitioned multi-physics simulations (FSI, CHT, and more).
   (C++, LGPL 3, [GitHub](https://github.com/precice/))
 - [orthopy](https://github.com/nschloe/orthopy) - Compute orthogonal polynomials efficiently.
   (Python, GPL 3, GitHub)
@@ -208,6 +208,8 @@ them.
   (Python, Apache 2.0, [GitHub](https://github.com/dswah/pyGAM))
 - [Dedalus](https://dedalus-project.org/) - Solve partial differential equations with spectral methods.
   (Python, GPL 3, [GitHub](https://github.com/DedalusProject/dedalus))
+- [PyGMO](https://esa.github.io/pygmo/) - Massively parallel optimization.
+  (Python/C++, MPL 2, [GitHub](https://github.com/esa/pygmo2))
 
 ## Community
 
