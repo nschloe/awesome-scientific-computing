@@ -195,7 +195,7 @@ them.
 - [pyMOR](https://pymor.org/) - Model Order Reduction with Python.
   (Python, 2-clause BSD, [GitHub](https://github.com/pymor/pymor/))
 - [cvxpy](https://www.cvxpy.org/) - Modeling language for convex optimization problems.
-  (Python, Apache 2.0, [GitHub](https://github.com/cvxgrp/cvxpy))
+  (Python, Apache 2.0, [GitHub](https://github.com/cvxpy/cvxpy))
 - [PyWavelets](https://pywavelets.readthedocs.io/en/latest/) - Wavelet transforms in Python.
   (Python, MIT, [GitHub](https://github.com/PyWavelets/pywt))
 - [NFFT](https://www-user.tu-chemnitz.de/~potts/nfft/) - Nonequispaced fast Fourier transform.
