@@ -77,6 +77,8 @@ them.
   (C++, LGPL, [GitHub](https://github.com/FreeFem))
 - [libceed](https://libceed.readthedocs.io/en/latest/index.html) - Code for Efficient Extensible Discretizations.
   (C, 2-clause BSD, [GitHub](https://github.com/CEED/libCEED))
+- [Kratos Multiphysics](https://github.com/KratosMultiphysics/Kratos) - KRATOS Multiphysics ("Kratos") is a framework for building parallel, multi-disciplinary simulation software, aiming at modularity, extensibility, and high performance.
+  (C++/Python, 4-clause BSD, [GitHub](https://github.com/KratosMultiphysics/Kratos))
 
 ## Meshing
 
