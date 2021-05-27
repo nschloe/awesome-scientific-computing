@@ -77,6 +77,8 @@ them.
   (C++, LGPL, [GitHub](https://github.com/FreeFem))
 - [libceed](https://libceed.readthedocs.io/en/latest/index.html) - Code for Efficient Extensible Discretizations.
   (C, 2-clause BSD, [GitHub](https://github.com/CEED/libCEED))
+- [scikit-fem](https://github.com/kinnala/scikit-fem) - Simple finite element assemblers.
+  (Python, BSD/GPL, GitHub)
 
 ## Meshing
 
@@ -167,7 +169,7 @@ them.
 - [F3D](https://kitware.github.io/F3D/) - Cross-platform, fast, and minimalist 3D viewer with scientific visualization tools.
   (C++, BSD, [GitLab](https://gitlab.kitware.com/f3d/f3d))
 - [TTK](https://topology-tool-kit.github.io/) - Topological data analysis and visualization.
-  (C++/Python, BSD, [GitHub](https://github.com/topology-tool-kit/ttk)).
+  (C++/Python, BSD, [GitHub](https://github.com/topology-tool-kit/ttk))
 
 ## Other libraries and tools
 
