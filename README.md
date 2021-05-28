@@ -212,6 +212,8 @@ them.
   (Python, GPL 3, [GitHub](https://github.com/DedalusProject/dedalus))
 - [PyGMO](https://esa.github.io/pygmo/) - Massively parallel optimization.
   (Python/C++, MPL 2, [GitHub](https://github.com/esa/pygmo2))
+- [shenfun](https://shenfun.readthedocs.io/en/latest/) - High-performance Python library for the spectral Galerkin method.
+  (Python, BSD-2, [GitHub](https://github.com/spectralDNS/shenfun))
 
 ## Community
 
