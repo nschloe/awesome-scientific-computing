@@ -58,7 +58,7 @@ them.
 ## Finite Elements
 
 - [FEniCS](https://fenicsproject.org) - Computing platform for solving PDEs in Python and C++.
-  (C++/Python, LGPL 3, [Bitbucket](https://bitbucket.org/fenics-project/))
+  (C++/Python, LGPL 3, [GitHub](https://github.com/FEniCS)/[Bitbucket](https://bitbucket.org/fenics-project/))
 - [libMesh](https://libmesh.github.io) - Framework for the numerical simulation of PDEs using unstructured discretizations.
   (C++, LGPL 2.1, [GitHub](https://github.com/libMesh/libmesh))
 - [deal.II](https://dealii.org) - Software library supporting the creation of finite element codes.
