@@ -1,5 +1,5 @@
 default:
-	@echo "\"make lint\"?"
+	@echo "\"just lint\"?"
 
 lint:
 	awesome-lint README.md
