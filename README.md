@@ -170,7 +170,7 @@ them.
   (C++, BSD, [GitLab](https://gitlab.kitware.com/f3d/f3d))
 - [TTK](https://topology-tool-kit.github.io/) - Topological data analysis and visualization.
   (C++/Python, BSD, [GitHub](https://github.com/topology-tool-kit/ttk))
-- [morphologica](https://github/com/ABRG-Models/morphologica) - Minimalistic header-only OpenGL visualization for numerical simulations. (C++, GPL, [GitHub](https://github/com/ABRG-Models/morphologica)
+- [morphologica](https://github.com/ABRG-Models/morphologica) - Minimalistic header-only OpenGL visualization for numerical simulations. (C++, GPL, [GitHub](https://github.com/ABRG-Models/morphologica)
 
 ## Other libraries and tools
 
