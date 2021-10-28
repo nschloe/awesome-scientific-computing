@@ -214,6 +214,8 @@ them.
   (Python/C++, MPL 2, [GitHub](https://github.com/esa/pygmo2))
 - [shenfun](https://shenfun.readthedocs.io/en/latest/) - High-performance Python library for the spectral Galerkin method.
   (Python, BSD-2, [GitHub](https://github.com/spectralDNS/shenfun))
+- [PyDMD](https://github.com/mathLab/PyDMD) - Dynamic Mode Decomposition (DMD) in Python.
+  (Python, MIT, GitHub)
 
 ## Community
 
