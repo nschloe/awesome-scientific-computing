@@ -166,8 +166,8 @@ them.
   (Python, MIT, [GitHub](https://github.com/marcomusy/vedo))
 - [yt](https://yt-project.org/) - A toolkit for analysis and visualization of volumetric data.
   (Python, BSD, [GitHub](https://github.com/yt-project/yt))
-- [F3D](https://kitware.github.io/F3D/) - Cross-platform, fast, and minimalist 3D viewer with scientific visualization tools.
-  (C++, BSD, [GitLab](https://gitlab.kitware.com/f3d/f3d))
+- [F3D](https://f3d-app.github.io/f3d/) - Cross-platform, fast, and minimalist 3D viewer with scientific visualization tools.
+  (C++, BSD, [GitHub](https://github.com/f3d-app/f3d))
 - [TTK](https://topology-tool-kit.github.io/) - Topological data analysis and visualization.
   (C++/Python, BSD, [GitHub](https://github.com/topology-tool-kit/ttk))
 
