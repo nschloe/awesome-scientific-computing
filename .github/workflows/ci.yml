@@ -6,14 +6,14 @@ jobs:
   lint:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-      with:
-        fetch-depth: 0  # fetch all history to avoid git-repo-age false negative
-    #
-    # git needed for awesome-lint
-    - run: sudo apt install git
-    - run: sudo npm install --global awesome-lint
-    - run: awesome-lint README.md
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0 # fetch all history to avoid git-repo-age false negative
+      #
+      # git needed for awesome-lint
+      - run: sudo apt install git
+      - run: sudo npm install --global awesome-lint
+      - run: awesome-lint README.md
     #
     # - run: sudo apt install -y ruby
     # - run: sudo gem install awesome_bot
