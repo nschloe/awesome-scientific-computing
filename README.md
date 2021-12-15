@@ -99,18 +99,18 @@ them.
   (Python, MIT, [GitHub](https://github.com/mikedh/trimesh))
 - [dmsh](https://github.com/nschloe/dmsh) - Simple generator for unstructured triangular meshes, inspired by distmesh.
   (Python, GPL 3, GitHub)
-- [TetWild](https://cs.nyu.edu/~yixinhu/tetwild.pdf) - Robust Tetrahedral Meshing in the Wild.
+- [TetWild](https://cs.nyu.edu/~yixinhu/tetwild.pdf) - Generate tetrahedral meshes for triangular surface meshes.
   (C++, GPL 3, [GitHub](https://github.com/Yixin-Hu/TetWild))
-- [TriWild](https://cims.nyu.edu/gcl/papers/2019-TriWild.pdf) - Robust Triangulation with Curve Constraints.
+- [TriWild](https://cims.nyu.edu/gcl/papers/2019-TriWild.pdf) - Robust triangulation with curve constraints.
   (C++, MPL 2, [GitHub](https://github.com/wildmeshing/TriWild))
-- [fTetWild](https://arxiv.org/abs/1908.03581) - Fast Tetrahedral Meshing in the Wild.
+- [fTetWild](https://arxiv.org/abs/1908.03581) - Same as TetWild, but faster.
   (C++, MPL 2, [GitHub](https://github.com/wildmeshing/fTetWild))
 - [SeismicMesh](https://github.com/krober10nd/SeismicMesh) - Parallel 2D/3D triangle/tetrahedral mesh generation with sliver removal.
   (Python and C++, GPL 3, GitHub)
 
 ### Quadrilateral and hexahedral meshing
 
-- [QuadriFlow](https://stanford.edu/~jingweih/papers/quadriflow/) - A Scalable and Robust Method for Quadrangulation.
+- [QuadriFlow](https://stanford.edu/~jingweih/papers/quadriflow/) - Scalable and robust quadrangulation.
   (C++, BSD, [GitHub](https://github.com/hjwdzh/QuadriFlow))
 
 ### Mesh tools
@@ -166,7 +166,7 @@ them.
   (Python, MIT, [GitHub](https://github.com/pyvista/pyvista))
 - [vedo](https://vedo.embl.es) - Library for scientific analysis and visualization of 3D objects based on VTK.
   (Python, MIT, [GitHub](https://github.com/marcomusy/vedo))
-- [yt](https://yt-project.org/) - A toolkit for analysis and visualization of volumetric data.
+- [yt](https://yt-project.org/) - Toolkit for analysis and visualization of volumetric data.
   (Python, BSD, [GitHub](https://github.com/yt-project/yt))
 - [F3D](https://f3d-app.github.io/f3d/) - Cross-platform, fast, and minimalist 3D viewer with scientific visualization tools.
   (C++, BSD, [GitHub](https://github.com/f3d-app/f3d))
