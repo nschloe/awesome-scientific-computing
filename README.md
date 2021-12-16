@@ -110,7 +110,7 @@ them.
 
 ### Quadrilateral and hexahedral meshing
 
-- [QuadriFlow](https://stanford.edu/~jingweih/papers/quadriflow/) - Scalable and robust quadrangulation.
+- [QuadriFlow](https://stanford.edu/~jingweih/papers/quadriflow/) - Scalable and robust quadrangulation from triangulation.
   (C++, BSD, [GitHub](https://github.com/hjwdzh/QuadriFlow))
 
 ### Mesh tools
@@ -145,12 +145,12 @@ them.
 
 - [SuperLU](https://portal.nersc.gov/project/sparse/superlu/) - Direct solution of large, sparse, nonsymmetric systems of linear equations.
   (C, mostly BSD, [GitHub](https://github.com/xiaoyeli/superlu))
-- [KryPy](https://github.com/andrenarchy/krypy) - Krylov subspace methods for the solution of linear algebraic systems.
-  (Python, MIT, GitHub)
 - [PyAMG](https://pyamg.github.io) - Algebraic Multigrid Solvers in Python.
   (Python, MIT, [GitHub](https://github.com/pyamg/pyamg))
 - [hypre](https://computing.llnl.gov/projects/hypre-scalable-linear-solvers-multigrid-methods) - Library of high-performance preconditioners and solvers.
   (C, Apache 2.0/MIT, [GitHub](https://github.com/hypre-space/hypre))
+- [krylov](https://github.com/nschloe/krylov) - Iterative linear solvers for Python.
+  (Python, MIT, GitHub)
 
 ## Visualization
 
