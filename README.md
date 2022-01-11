@@ -218,6 +218,8 @@ them.
   (Python, BSD-2, [GitHub](https://github.com/spectralDNS/shenfun))
 - [PyDMD](https://github.com/mathLab/PyDMD) - Dynamic Mode Decomposition (DMD) in Python.
   (Python, MIT, GitHub)
+- [HPDDM](https://github.com/hpddm/hpddm) - High-performance unified framework for domain decomposition methods.
+  (C++, LGPL 3, GitHub)
 
 ## Community
 
