@@ -100,7 +100,7 @@ them.
   (Python, MIT, [GitHub](https://github.com/mikedh/trimesh))
 - [dmsh](https://github.com/nschloe/dmsh) - Simple generator for unstructured triangular meshes, inspired by distmesh.
   (Python, GPL 3, GitHub)
-- [TetWild](https://cs.nyu.edu/~yixinhu/tetwild.pdf) - Generate tetrahedral meshes for triangular surface meshes.
+- [TetWild](https://yixin-hu.github.io/tetwild.pdf) - Generate tetrahedral meshes for triangular surface meshes.
   (C++, GPL 3, [GitHub](https://github.com/Yixin-Hu/TetWild))
 - [TriWild](https://cims.nyu.edu/gcl/papers/2019-TriWild.pdf) - Robust triangulation with curve constraints.
   (C++, MPL 2, [GitHub](https://github.com/wildmeshing/TriWild))
@@ -146,12 +146,10 @@ them.
 
 - [SuperLU](https://portal.nersc.gov/project/sparse/superlu/) - Direct solution of large, sparse, nonsymmetric systems of linear equations.
   (C, mostly BSD, [GitHub](https://github.com/xiaoyeli/superlu))
-- [PyAMG](https://pyamg.github.io) - Algebraic Multigrid Solvers in Python.
+- [PyAMG](https://pyamg.readthedocs.io/en/latest/) - Algebraic Multigrid Solvers in Python.
   (Python, MIT, [GitHub](https://github.com/pyamg/pyamg))
 - [hypre](https://computing.llnl.gov/projects/hypre-scalable-linear-solvers-multigrid-methods) - Library of high-performance preconditioners and solvers.
   (C, Apache 2.0/MIT, [GitHub](https://github.com/hypre-space/hypre))
-- [krylov](https://github.com/nschloe/krylov) - Iterative linear solvers for Python.
-  (Python, MIT, GitHub)
 
 ## Visualization
 
