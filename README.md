@@ -66,7 +66,7 @@ them.
 - [MOOSE](https://mooseframework.inl.gov/) - Multiphysics Object Oriented Simulation Environment.
   (C++, LGPL 2.1, [GitHub](https://github.com/idaholab/moose))
 - [MFEM](https://mfem.org) - Free, lightweight, scalable C++ library for finite element methods.
-  (C++, LGPL 2.1, [GitHub](https://github.com/mfem/mfem))
+  (C++, BSD-3-Clause, [GitHub](https://github.com/mfem/mfem))
 - [SfePy](https://sfepy.org) - Simple Finite Elements in Python.
   (Python, BSD, [GitHub](https://github.com/sfepy/sfepy))
 - [FreeFEM](https://freefem.org) - High level multiphysics-multimesh finite element language.
