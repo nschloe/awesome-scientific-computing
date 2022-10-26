@@ -75,7 +75,7 @@ them.
   (C, 2-clause BSD, [GitHub](https://github.com/CEED/libCEED))
 - [scikit-fem](https://github.com/kinnala/scikit-fem) - Simple finite element assemblers.
   (Python, BSD/GPL, GitHub)
-- [DEVSIM](https://devsim.org/index.html) - Finite-volume solver with symbolic models (C++/Python, Apache, [Github](https://github.com/devsim/devsim))
+- [DEVSIM](https://devsim.org/index.html) - Finite-volume solver with symbolic models (C++/Python, Apache 2.0, [Github](https://github.com/devsim/devsim))
 
 ## Meshing
 
