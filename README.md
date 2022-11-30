@@ -24,13 +24,13 @@ them.
 
 ## Basic linear algebra
 
-- [BLAS](https://www.netlib.org/blas/) - Standard building blocks for performing basic vector and matrix operations.
+- [BLAS](https://netlib.org/blas/) - Standard building blocks for performing basic vector and matrix operations.
   (Fortran, public domain, [GitHub](https://github.com/Reference-LAPACK/lapack/tree/master/BLAS))
 - [OpenBLAS](https://www.openblas.net) - Optimized BLAS library based on GotoBLAS2.
   (C and Assembly, BSD, [GitHub](https://github.com/xianyi/OpenBLAS))
 - [BLIS](https://github.com/flame/blis) - High-performance BLAS-like dense linear algebra libraries.
   (C, BSD, GitHub)
-- [LAPACK](https://www.netlib.org/lapack/) - Routines for solving systems of linear equations, linear least-squares, eigenvalue problems, etc.
+- [LAPACK](https://netlib.org/lapack/) - Routines for solving systems of linear equations, linear least-squares, eigenvalue problems, etc.
   (Fortran, BSD, [GitHub](https://github.com/Reference-LAPACK/lapack))
 - [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) - C++ template library for linear algebra.
   (C++, MPL 2, [GitLab](https://gitlab.com/libeigen/eigen))
@@ -167,7 +167,7 @@ them.
   (Python, MIT, [GitHub](https://github.com/marcomusy/vedo))
 - [yt](https://yt-project.org/) - Toolkit for analysis and visualization of volumetric data.
   (Python, BSD, [GitHub](https://github.com/yt-project/yt))
-- [F3D](https://f3d-app.github.io/f3d/) - Cross-platform, fast, and minimalist 3D viewer with scientific visualization tools.
+- [F3D](https://f3d.app/) - Cross-platform, fast, and minimalist 3D viewer with scientific visualization tools.
   (C++, BSD, [GitHub](https://github.com/f3d-app/f3d))
 - [TTK](https://topology-tool-kit.github.io/) - Topological data analysis and visualization.
   (C++/Python, BSD, [GitHub](https://github.com/topology-tool-kit/ttk))
@@ -227,7 +227,7 @@ them.
 - [Nick Higham's blog](https://nhigham.com/) - Mostly on MATLAB, general computing advice.
 - [Nick Trefethen's Video Lectures](https://people.maths.ox.ac.uk/trefethen/videos.html) - 36 video lectures on approximation theory/practice and scientific computing.
 - [John D. Cook's blog](https://www.johndcook.com/blog/) - Feats of scientific computing.
-- [Jack Dongarra's software list](https://www.netlib.org/utk/people/JackDongarra/la-sw.html) - List of freely available software for the solution of linear algebra problems.
-- [NA Digest](https://www.netlib.org/na-digest-html/) - Collection of articles on topics related to numerical analysis and those who practice it.
+- [Jack Dongarra's software list](https://netlib.org/utk/people/JackDongarra/la-sw.html) - List of freely available software for the solution of linear algebra problems.
+- [NA Digest](https://netlib.org/na-digest-html/) - Collection of articles on topics related to numerical analysis and those who practice it.
 - [Gabriel Peyré on Twitter](https://twitter.com/gabrielpeyre) - One tweet a day on computational mathematics.
 - [Discord: Numerical Software](https://discord.com/invite/hnTJ5MRX2Y) - Discord messaging server on numerical software.
