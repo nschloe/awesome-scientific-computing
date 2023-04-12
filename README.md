@@ -88,7 +88,7 @@ them.
   (Python, MIT, [GitHub](https://github.com/inducer/meshpy))
 - [CGAL](https://www.cgal.org) - Algorithms for computational geometry.
   (C++, mixed LGPL/GPL, [GitHub](https://github.com/CGAL/cgal))
-- [pygalmesh](https://github.com/nschloe/pygalmesh) - Python interface for CGAL's 3D meshing capabilities.
+- [pygalmesh](https://github.com/meshpro/pygalmesh) - Python interface for CGAL's 3D meshing capabilities.
   (Python, GPL 3, GitHub)
 - [TetGen](https://www.wias-berlin.de/software/index.jsp?id=TetGen) - Quality tetrahedral mesh generator and 3D Delaunay triangulator.
   (C++, AGPLv3)
@@ -98,8 +98,8 @@ them.
   (MATLAB, GPL 3)
 - [trimesh](https://trimsh.org/) - Loading and using triangular meshes with an emphasis on watertight surfaces.
   (Python, MIT, [GitHub](https://github.com/mikedh/trimesh))
-- [dmsh](https://github.com/nschloe/dmsh) - Simple generator for unstructured triangular meshes, inspired by distmesh.
-  (Python, GPL 3, GitHub)
+- [dmsh](https://github.com/meshpro/dmsh) - Simple generator for unstructured triangular meshes, inspired by distmesh.
+  (Python, proprietary, GitHub)
 - [TetWild](https://yixin-hu.github.io/tetwild.pdf) - Generate tetrahedral meshes for triangular surface meshes.
   (C++, GPL 3, [GitHub](https://github.com/Yixin-Hu/TetWild))
 - [TriWild](https://cims.nyu.edu/gcl/papers/2019-TriWild.pdf) - Robust triangulation with curve constraints.
@@ -120,14 +120,14 @@ them.
   (Python, MIT, GitHub)
 - [MOAB](https://sigma.mcs.anl.gov/moab-library/) - Representing and evaluating mesh data.
   (C++, mostly LGPL 3, [Bitbucket](https://bitbucket.org/fathomteam/moab/))
-- [optimesh](https://github.com/nschloe/optimesh) - Triangular mesh smoothing.
-  (Python, GPL 3, GitHub)
+- [optimesh](https://github.com/meshpro/optimesh) - Triangular mesh smoothing.
+  (Python, proprietary, GitHub)
 - [pmp-library](https://www.pmp-library.org/) - Polygon mesh processing library.
   (C++, MIT with Employer Disclaimer, [GitHub](https://github.com/pmp-library/pmp-library/))
 - [Mmg](https://www.mmgtools.org/) - Robust, open-source & multidisciplinary software for remeshing.
   (C, LGPL 3, [GitHub](https://github.com/MmgTools/mmg))
-- [meshplex](https://github.com/nschloe/meshplex) - Fast tools for simplex meshes.
-  (Python, GPL 3, GitHub)
+- [meshplex](https://github.com/meshpro/meshplex) - Fast tools for simplex meshes.
+  (Python, proprietary, GitHub)
 
 ## Data formats
 
@@ -183,13 +183,13 @@ them.
   (C/C++, GPL 3, [Savannah](https://savannah.gnu.org/projects/gsl))
 - [OpenFOAM](https://www.openfoam.com) - Free, open source CFD (computational fluid dynamics) software.
   (C++, GPL 3, [GitHub](https://github.com/OpenFOAM/OpenFOAM-dev))
-- [quadpy](https://github.com/nschloe/quadpy) - Numerical integration (quadrature, cubature) in Python.
-  (Python, GPL 3, GitHub)
+- [quadpy](https://github.com/sigma-py/quadpy) - Numerical integration (quadrature, cubature) in Python.
+  (Python, proprietary, GitHub)
 - [FiPy](https://www.ctcms.nist.gov/fipy/) - Finite-volume PDE solver.
   (Python, [custom open-source
   license](https://www.nist.gov/open/copyright-fair-use-and-licensing-statements-srd-data-software-and-technical-series-publications),
   [GitHub](https://github.com/usnistgov/fipy))
-- [accupy](https://github.com/nschloe/accupy) - Accurate sums and dot products for Python.
+- [accupy](https://github.com/sigma-py/accupy) - Accurate sums and dot products for Python.
   (Python, GPL 3, GitHub)
 - [SLEPc](https://slepc.upv.es) - Scalable Library for Eigenvalue Problem Computations.
   (C, 2-clause BSD, [GitLab](https://gitlab.com/slepc/slepc))
@@ -205,8 +205,8 @@ them.
   (C/MATLAB, GPL 2, [GitHub](https://github.com/NFFT/nfft))
 - [preCICE](https://precice.org/) - Coupling library for partitioned multi-physics simulations (FSI, CHT, and more).
   (C++, LGPL 3, [GitHub](https://github.com/precice/))
-- [orthopy](https://github.com/nschloe/orthopy) - Compute orthogonal polynomials efficiently.
-  (Python, GPL 3, GitHub)
+- [orthopy](https://github.com/sigma-py/orthopy) - Compute orthogonal polynomials efficiently.
+  (Python, proprietary, GitHub)
 - [pyGAM](https://pygam.readthedocs.io/en/latest/) - Generalized Additive Models in Python.
   (Python, Apache 2.0, [GitHub](https://github.com/dswah/pyGAM))
 - [Dedalus](https://dedalus-project.org/) - Solve partial differential equations with spectral methods.
