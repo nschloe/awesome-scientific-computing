@@ -223,6 +223,7 @@ them.
 
 ## Community
 
+- [Synthical](https://synthical.com) - AI-powered collaborative research environment. You can use it to get recommendations of articles based on reading history, simplify papers, find out what articles are trending, search articles by meaning (not just keywords), create and share folders of articles, see lists of articles from specific companies and universities, and so on.
 - [SciComp StackExchange](https://scicomp.stackexchange.com/) - Computational Science on the StackExchange network.
 - [Wolfgang Bangerth's video class](https://www.math.colostate.edu/~bangerth/videos.html) - MATH 676: Finite element methods in scientific computing.
 - [Nick Higham's blog](https://nhigham.com/) - Mostly on MATLAB, general computing advice.
