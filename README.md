@@ -27,7 +27,7 @@ them.
 - [BLAS](https://netlib.org/blas/) - Standard building blocks for performing basic vector and matrix operations.
   (Fortran, public domain, [GitHub](https://github.com/Reference-LAPACK/lapack/tree/master/BLAS))
 - [OpenBLAS](https://www.openblas.net) - Optimized BLAS library based on GotoBLAS2.
-  (C and Assembly, BSD, [GitHub](https://github.com/xianyi/OpenBLAS))
+  (C and Assembly, BSD, [GitHub](https://github.com/OpenMathLib/OpenBLAS))
 - [BLIS](https://github.com/flame/blis) - High-performance BLAS-like dense linear algebra libraries.
   (C, BSD, GitHub)
 - [LAPACK](https://netlib.org/lapack/) - Routines for solving systems of linear equations, linear least-squares, eigenvalue problems, etc.
@@ -96,7 +96,7 @@ them.
   (C, _nonfree software_)
 - [distmesh](http://persson.berkeley.edu/distmesh/) - Simple generator for unstructured triangular and tetrahedral meshes.
   (MATLAB, GPL 3)
-- [trimesh](https://trimsh.org/) - Loading and using triangular meshes with an emphasis on watertight surfaces.
+- [trimesh](https://trimesh.org) - Loading and using triangular meshes with an emphasis on watertight surfaces.
   (Python, MIT, [GitHub](https://github.com/mikedh/trimesh))
 - [dmsh](https://github.com/meshpro/dmsh) - Simple generator for unstructured triangular meshes, inspired by distmesh.
   (Python, proprietary, GitHub)
