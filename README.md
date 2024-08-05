@@ -38,6 +38,7 @@ them.
   (C++, BSD, [GitHub](https://github.com/ginkgo-project/ginkgo))
 - [blaze](https://bitbucket.org/blaze-lib/blaze) - High-performance C++ math library for dense and sparse arithmetic.
   (C++, BSD, Bitbucket)
+- [Armadillo](https://arma.sourceforge.net/) - A C++ linear algebra library with a syntax similar to MATLAB. (C++, MPL 2, [GitHub](https://github.com/conradsnicta/armadillo-code))
 
 ## Multi-purpose toolkits
 
@@ -50,6 +51,9 @@ them.
 - [NumPy](https://numpy.org/) - Fundamental package needed for scientific computing with Python.
   (Python, BSD, [GitHub](https://github.com/numpy/numpy))
 - [DifferentialEquations.jl](https://diffeq.sciml.ai/) - Toolbox for solving different types of differential equations numerically. (Julia, MIT, [GitHub](https://github.com/SciML/DifferentialEquations.jl))
+- [TensorFlow](https://www.tensorflow.org/) - A framework for building machine learning models, often used in scientific computing. (Python, Apache 2.0, [GitHub](https://github.com/tensorflow/tensorflow))
+- [PyTorch](https://pytorch.org/) - An open-source machine learning library based on the Torch library. (Python, BSD, [GitHub](https://github.com/pytorch/pytorch))
+- [Dask](https://www.dask.org/) - A parallel computing library that integrates with NumPy, Pandas, and Scikit-learn. (Python, BSD, [GitHub](https://github.com/dask/dask))
 
 ## Finite Elements
 
@@ -141,6 +145,8 @@ them.
   (C++, [GitLab](https://gitlab.kitware.com/xdmf/xdmf))
 - [Zarr](https://zarr.readthedocs.io/en/stable/) - Format for the storage of chunked, compressed, N-dimensional arrays.
   (Python, MIT, [GitHub](https://github.com/zarr-developers/zarr-python))
+- [Parquet](https://parquet.apache.org/) - A columnar storage file format optimized for use with big data processing frameworks. (C++, Apache License 2.0, [GitHub](https://github.com/apache/parquet-cpp))
+- [Feather](https://arrow.apache.org/docs/python/feather.html) - A binary columnar data format that can be read and written by both Python and R. (C++, Apache License 2.0, [GitHub](https://github.com/wesm/feather))
 
 ## Sparse linear solvers
 
@@ -150,6 +156,7 @@ them.
   (Python, MIT, [GitHub](https://github.com/pyamg/pyamg))
 - [hypre](https://computing.llnl.gov/projects/hypre-scalable-linear-solvers-multigrid-methods) - Library of high-performance preconditioners and solvers.
   (C, Apache 2.0/MIT, [GitHub](https://github.com/hypre-space/hypre))
+- [Cholmod](https://developer.nvidia.com/cholmod) - Sparse Cholesky factorization. (C, GPL, [GitHub](https://github.com/DrTimothyAldenDavis/SuiteSparse))
 
 ## Visualization
 
@@ -172,6 +179,8 @@ them.
 - [TTK](https://topology-tool-kit.github.io/) - Topological data analysis and visualization.
   (C++/Python, BSD, [GitHub](https://github.com/topology-tool-kit/ttk))
 - [morphologica](https://github.com/ABRG-Models/morphologica) - Header-only, modern OpenGL code to visualize numerical simulations at runtime. (C++, Apache 2.0, GitHub)
+- [Matplotlib](https://matplotlib.org/) - Comprehensive library for creating static, animated, and interactive visualizations in Python. (Python, PSF License, [GitHub](https://github.com/matplotlib/matplotlib))
+- [Seaborn](https://seaborn.pydata.org/) - Statistical data visualization library based on Matplotlib. (Python, MIT, [GitHub](https://github.com/mwaskom/seaborn))
 
 ## Other libraries and tools
 
@@ -220,6 +229,8 @@ them.
   (Python, MIT, GitHub)
 - [HPDDM](https://github.com/hpddm/hpddm) - High-performance unified framework for domain decomposition methods.
   (C++, LGPL 3, GitHub)
+- [OpenCV](https://opencv.org/): Open Source Computer Vision Library for real-time computer vision. (C++, Apache 2.0, [GitHub](https://github.com/opencv/opencv))
+- [Dlib](http://dlib.net/): A toolkit for making real-world machine learning and data analysis applications in C++. (C++, Boost Software License, [GitHub](https://github.com/davisking/dlib))  
 
 ## Community
 
