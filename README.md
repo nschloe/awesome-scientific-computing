@@ -108,6 +108,8 @@ them.
   (C++, MPL 2, [GitHub](https://github.com/wildmeshing/fTetWild))
 - [SeismicMesh](https://github.com/krober10nd/SeismicMesh) - Parallel 2D/3D triangle/tetrahedral mesh generation with sliver removal.
   (Python and C++, GPL 3, GitHub)
+- [pandamesh](https://github.com/Deltares/pandamesh) - Translates geospatial vector data (points, lines, or polygons) to unstructured meshes.
+  (Python, MIT, GitHub)
 
 ### Quadrilateral and hexahedral meshing
 
