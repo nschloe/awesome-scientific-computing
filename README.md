@@ -75,6 +75,8 @@ them.
   (C, 2-clause BSD, [GitHub](https://github.com/CEED/libCEED))
 - [scikit-fem](https://github.com/kinnala/scikit-fem) - Simple finite element assemblers.
   (Python, BSD/GPL, GitHub)
+- [GetFEM](https://getfem.org) - Framework for solving systems of coupled nonlinear PDEs with the finite element method.
+  (C++/Python/Octave/Matlab, LGPL 3, [Savannah](https://git.savannah.nongnu.org/cgit/getfem.git/))
 
 ## Meshing
 
