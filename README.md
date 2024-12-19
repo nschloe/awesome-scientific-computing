@@ -75,6 +75,8 @@ them.
   (C, 2-clause BSD, [GitHub](https://github.com/CEED/libCEED))
 - [scikit-fem](https://github.com/kinnala/scikit-fem) - Simple finite element assemblers.
   (Python, BSD/GPL, GitHub)
+- [FElupe](https://felupe.readthedocs.io) - Finite element analysis for continuum mechanics of solid bodies
+  (Python, GPL 3, [GitHub](https://github.com/adtzlr/felupe))
 
 ## Meshing
 
