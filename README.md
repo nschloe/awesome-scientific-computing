@@ -50,6 +50,7 @@ them.
 - [NumPy](https://numpy.org/) - Fundamental package needed for scientific computing with Python.
   (Python, BSD, [GitHub](https://github.com/numpy/numpy))
 - [DifferentialEquations.jl](https://diffeq.sciml.ai/) - Toolbox for solving different types of differential equations numerically. (Julia, MIT, [GitHub](https://github.com/SciML/DifferentialEquations.jl))
+- [numru](https://github.com/mjovanc/numru) - A high-performance scientific computation library written in Rust.
 
 ## Finite Elements
 
