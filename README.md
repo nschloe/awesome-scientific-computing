@@ -75,6 +75,7 @@ them.
   (C, 2-clause BSD, [GitHub](https://github.com/CEED/libCEED))
 - [scikit-fem](https://github.com/kinnala/scikit-fem) - Simple finite element assemblers.
   (Python, BSD/GPL, GitHub)
+- [FEAScript](https://feascript.com/) - Finite element simulation library written in JavaScript (JavaScript, MIT, [GitHub](https://github.com/FEAScript/FEAScript-core))
 
 ## Meshing
 
