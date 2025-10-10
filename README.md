@@ -220,6 +220,8 @@ them.
   (Python, MIT, GitHub)
 - [HPDDM](https://github.com/hpddm/hpddm) - High-performance unified framework for domain decomposition methods.
   (C++, LGPL 3, GitHub)
+- [PathSim](https://pathsim.readthedocs.io/en/latest/) - Dynamical system simulation framework in the block diagram paradigm.
+  (Python, MIT, [GitHub](https://github.com/milanofthe/pathsim))
 
 ## Community
 
