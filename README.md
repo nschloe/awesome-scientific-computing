@@ -220,6 +220,8 @@ them.
   (Python, MIT, GitHub)
 - [HPDDM](https://github.com/hpddm/hpddm) - High-performance unified framework for domain decomposition methods.
   (C++, LGPL 3, GitHub)
+- [OSEF Framework](https://github.com/emerladcompass/OSEF-Framework) - Operational Stability Envelope Framework for aviation safety using limit cycle dynamics.
+  (Python, MIT, GitHub)
 
 ## Community
 
