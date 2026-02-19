@@ -182,6 +182,8 @@ them.
   [GitHub](https://github.com/qhull/qhull/))
 - [GSL](https://www.gnu.org/software/gsl/) - Random number generators, special functions, and least-squares fitting etc.
   (C/C++, GPL 3, [Savannah](https://savannah.gnu.org/projects/gsl))
+- [MFC](https://mflowcode.github.io/) - Exascale multiphase compressible flow solver; 2025 Gordon Bell Prize Finalist.
+  (Fortran, MIT, [GitHub](https://github.com/MFlowCode/MFC))
 - [OpenFOAM](https://www.openfoam.com) - Free, open source CFD (computational fluid dynamics) software.
   (C++, GPL 3, [GitHub](https://github.com/OpenFOAM/OpenFOAM-dev))
 - [quadpy](https://github.com/sigma-py/quadpy) - Numerical integration (quadrature, cubature) in Python.
