@@ -220,6 +220,7 @@ them.
   (Python, MIT, GitHub)
 - [HPDDM](https://github.com/hpddm/hpddm) - High-performance unified framework for domain decomposition methods.
   (C++, LGPL 3, GitHub)
+- [RunMat](https://github.com/runmat-org/runmat) - Fast MATLAB-syntax code runtime with automatic CPU/GPU execution and fused array kernels. 
 
 ## Community
 
