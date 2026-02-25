@@ -220,6 +220,8 @@ them.
   (Python, MIT, GitHub)
 - [HPDDM](https://github.com/hpddm/hpddm) - High-performance unified framework for domain decomposition methods.
   (C++, LGPL 3, GitHub)
+- [MetaReview](https://metareview-8c1.pages.dev/) - Free online meta-analysis platform with forest plots, funnel plots, and statistical diagnostics for evidence-based medicine.
+  (JavaScript/TypeScript, MIT, [GitHub](https://github.com/TerryFYL/metareview))
 
 ## Community
 
