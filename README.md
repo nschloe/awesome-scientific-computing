@@ -172,6 +172,8 @@ them.
 - [TTK](https://topology-tool-kit.github.io/) - Topological data analysis and visualization.
   (C++/Python, BSD, [GitHub](https://github.com/topology-tool-kit/ttk))
 - [morphologica](https://github.com/ABRG-Models/morphologica) - Header-only, modern OpenGL code to visualize numerical simulations at runtime. (C++, Apache 2.0, GitHub)
+- [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) - Personal genome analysis toolkit with Python scripts for scientific analysis of raw DNA data across 17 categories and HTML visualization of results.
+  (Python, [GitHub](https://github.com/shmlkv/dna-claude-analysis))
 
 ## Other libraries and tools
 
