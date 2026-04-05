@@ -232,3 +232,4 @@ them.
 - [NA Digest](https://netlib.org/na-digest-html/) - Collection of articles on topics related to numerical analysis and those who practice it.
 - [Gabriel Peyré on Bluesky](https://bsky.app/profile/gabrielpeyre.bsky.social) - One post a day on computational mathematics.
 - [Discord: Numerical Software](https://discord.com/invite/hnTJ5MRX2Y) - Discord messaging server on numerical software.
+- [Awesome AI-CAE](https://github.com/kimimgo/awesome-ai-cae) - Curated list of AI-ready tools for Computer-Aided Engineering: CFD, FEA, SPH, surrogate models, PINNs, and MCP servers.
