@@ -220,6 +220,8 @@ them.
   (Python, MIT, GitHub)
 - [HPDDM](https://github.com/hpddm/hpddm) - High-performance unified framework for domain decomposition methods.
   (C++, LGPL 3, GitHub)
+- [Jacobian](https://github.com/morluto/jacobian) - MCP server, CLI, and Python library for composable mathematics, with exact computation and conjecture testing across polynomial maps, linear algebra, and graph algorithms.
+  (Python, MIT, [GitHub](https://github.com/morluto/jacobian))
 
 ## Community
 
