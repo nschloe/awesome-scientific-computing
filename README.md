@@ -220,6 +220,9 @@ them.
   (Python, MIT, GitHub)
 - [HPDDM](https://github.com/hpddm/hpddm) - High-performance unified framework for domain decomposition methods.
   (C++, LGPL 3, GitHub)
+- [Desbordante](https://github.com/desbordante/desbordante-core) - Data profiler specifically focused on discovery and validation of complex patterns in data.
+  (Python, AGPL 3, GitHub)
+
 
 ## Community
 
