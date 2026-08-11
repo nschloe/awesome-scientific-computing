@@ -172,6 +172,7 @@ them.
 - [TTK](https://topology-tool-kit.github.io/) - Topological data analysis and visualization.
   (C++/Python, BSD, [GitHub](https://github.com/topology-tool-kit/ttk))
 - [morphologica](https://github.com/ABRG-Models/morphologica) - Header-only, modern OpenGL code to visualize numerical simulations at runtime. (C++, Apache 2.0, GitHub)
+- [Prizm](https://github.com/okmatija/Prizm/) - Computational geometry debugging tool. (Jai/C++, MIT, [GitHub](https://github.com/okmatija/Prizm/))
 
 ## Other libraries and tools
 
