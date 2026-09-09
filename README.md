@@ -32,7 +32,7 @@ them.
   (C, BSD, GitHub)
 - [LAPACK](https://netlib.org/lapack/) - Routines for solving systems of linear equations, linear least-squares, eigenvalue problems, etc.
   (Fortran, BSD, [GitHub](https://github.com/Reference-LAPACK/lapack))
-- [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) - C++ template library for linear algebra.
+- [Eigen](https://libeigen.gitlab.io/) - C++ template library for linear algebra.
   (C++, MPL 2, [GitLab](https://gitlab.com/libeigen/eigen))
 - [Ginkgo](https://ginkgo-project.github.io/) - High-performance manycore linear algebra library, focus on sparse systems.
   (C++, BSD, [GitHub](https://github.com/ginkgo-project/ginkgo))
@@ -49,7 +49,7 @@ them.
   (Python, mostly BSD, [GitHub](https://github.com/scipy/scipy/))
 - [NumPy](https://numpy.org/) - Fundamental package needed for scientific computing with Python.
   (Python, BSD, [GitHub](https://github.com/numpy/numpy))
-- [DifferentialEquations.jl](https://diffeq.sciml.ai/) - Toolbox for solving different types of differential equations numerically. (Julia, MIT, [GitHub](https://github.com/SciML/DifferentialEquations.jl))
+- [DifferentialEquations.jl](https://docs.sciml.ai/DiffEqDocs/stable/) - Toolbox for solving different types of differential equations numerically. (Julia, MIT, [GitHub](https://github.com/SciML/DifferentialEquations.jl))
 
 ## Finite Elements
 
@@ -100,7 +100,7 @@ them.
   (Python, MIT, [GitHub](https://github.com/mikedh/trimesh))
 - [dmsh](https://github.com/meshpro/dmsh) - Simple generator for unstructured triangular meshes, inspired by distmesh.
   (Python, proprietary, GitHub)
-- [TetWild](https://yixin-hu.github.io/tetwild.pdf) - Generate tetrahedral meshes for triangular surface meshes.
+- [TetWild](https://arxiv.org/abs/1908.03581) - Generate tetrahedral meshes for triangular surface meshes.
   (C++, GPL 3, [GitHub](https://github.com/Yixin-Hu/TetWild))
 - [TriWild](https://cims.nyu.edu/gcl/papers/2019-TriWild.pdf) - Robust triangulation with curve constraints.
   (C++, MPL 2, [GitHub](https://github.com/wildmeshing/TriWild))
@@ -220,7 +220,8 @@ them.
   (Python, MIT, GitHub)
 - [HPDDM](https://github.com/hpddm/hpddm) - High-performance unified framework for domain decomposition methods.
   (C++, LGPL 3, GitHub)
-- [RunMat](https://github.com/runmat-org/runmat) - Fast MATLAB-syntax code runtime with automatic CPU/GPU execution and fused array kernels. 
+- [RunMat](https://github.com/runmat-org/runmat) - Numerical computing runtime for MATLAB-syntax programs with automatic CPU/GPU execution and array-operation fusion.
+  (Rust, Apache 2.0, GitHub)
 
 ## Community
 
