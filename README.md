@@ -220,6 +220,7 @@ them.
   (Python, MIT, GitHub)
 - [HPDDM](https://github.com/hpddm/hpddm) - High-performance unified framework for domain decomposition methods.
   (C++, LGPL 3, GitHub)
+- [Catalyst](https://github.com/lovettsendit/catalyst) - Verification-focused automatic differentiation from LLVM IR with independent numerical checking, reproducible derivative artifacts, Go/R exports, and local failure rehearsal for engineering agents.
 
 ## Community
 
