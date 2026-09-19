@@ -75,6 +75,9 @@ them.
   (C, 2-clause BSD, [GitHub](https://github.com/CEED/libCEED))
 - [scikit-fem](https://github.com/kinnala/scikit-fem) - Simple finite element assemblers.
   (Python, BSD/GPL, GitHub)
+- [AgentFEM](https://haoming-luo.github.io/agentfem/) - Finite-element workflows built on FEniCSx for human and AI-agent use, with reusable operators and simulation campaigns.
+  (Python, Apache-2.0, [GitHub](https://github.com/haoming-luo/agentfem))
+
 
 ## Meshing
 
