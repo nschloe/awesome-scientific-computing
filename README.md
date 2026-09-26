@@ -220,6 +220,8 @@ them.
   (Python, MIT, GitHub)
 - [HPDDM](https://github.com/hpddm/hpddm) - High-performance unified framework for domain decomposition methods.
   (C++, LGPL 3, GitHub)
+- [scientific-computing-system](https://github.com/Furox-Art/scientific-computing-system) - Zero-dependency, pure-Python scientific computing toolkit (linear algebra, ODE solvers, quantum simulation, ML, statistics, graph theory) that runs where NumPy cannot.
+  (Python, MIT, GitHub)
 
 ## Community
 
