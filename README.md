@@ -220,6 +220,8 @@ them.
   (Python, MIT, GitHub)
 - [HPDDM](https://github.com/hpddm/hpddm) - High-performance unified framework for domain decomposition methods.
   (C++, LGPL 3, GitHub)
+- [LawSynth](https://lawsynth.dev) - Discovers interpretable governing equations (differential-equation models) from time-series data; deterministic, local-first alternative to symbolic-regression and SINDy workflows.
+  (Rust, Apache 2.0, [GitHub](https://github.com/caelum0x/lawsynth))
 
 ## Community
 
