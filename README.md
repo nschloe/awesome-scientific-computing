@@ -220,6 +220,8 @@ them.
   (Python, MIT, GitHub)
 - [HPDDM](https://github.com/hpddm/hpddm) - High-performance unified framework for domain decomposition methods.
   (C++, LGPL 3, GitHub)
+- [XAD](https://auto-differentiation.github.io/) - Automatic differentiation in forward, adjoint and higher-order mode via operator overloading, with Python bindings.
+  (C++/Python, AGPL 3, [GitHub](https://github.com/auto-differentiation/xad))
 
 ## Community
 
