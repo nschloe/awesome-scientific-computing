@@ -220,6 +220,8 @@ them.
   (Python, MIT, GitHub)
 - [HPDDM](https://github.com/hpddm/hpddm) - High-performance unified framework for domain decomposition methods.
   (C++, LGPL 3, GitHub)
+- [OpenFLUME](https://github.com/OpenFLUME/OpenFLUME) - Finite-volume thermo-fluid network solver (steady and transient, real fluids, two-phase, conjugate heat transfer), usable from a browser UI, Python, or TypeScript.
+  (TypeScript/Python, MIT, GitHub)
 
 ## Community
 
