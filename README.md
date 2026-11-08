@@ -74,7 +74,9 @@ them.
 - [libceed](https://libceed.readthedocs.io/en/latest/index.html) - Code for Efficient Extensible Discretizations.
   (C, 2-clause BSD, [GitHub](https://github.com/CEED/libCEED))
 - [scikit-fem](https://github.com/kinnala/scikit-fem) - Simple finite element assemblers.
-  (Python, BSD/GPL, GitHub)
+  (Python, BSD/GPL, GitHub)  
+- [QF Solver](https://qfsolver.org/) - Open-source Python finite element solver for structural mechanics, including static and dynamic analysis, modal methods, nonlinear formulations, and numerical verification. (Python, Apache 2.0, [GitHub](https://github.com/emptiesvoid-cloud/QF_solver))
+
 
 ## Meshing
 
