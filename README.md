@@ -75,6 +75,8 @@ them.
   (C, 2-clause BSD, [GitHub](https://github.com/CEED/libCEED))
 - [scikit-fem](https://github.com/kinnala/scikit-fem) - Simple finite element assemblers.
   (Python, BSD/GPL, GitHub)
+- [LowLevelFEM.jl](https://github.com/perebalazs/LowLevelFEM.jl) - Lightweight finite element toolbox with explicit matrices and weak-form assembly. 
+  (Julia, MIT, [GitHub](https://github.com/perebalazs/LowLevelFEM.jl))
 
 ## Meshing
 
