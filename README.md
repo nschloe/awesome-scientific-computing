@@ -50,6 +50,8 @@ them.
 - [NumPy](https://numpy.org/) - Fundamental package needed for scientific computing with Python.
   (Python, BSD, [GitHub](https://github.com/numpy/numpy))
 - [DifferentialEquations.jl](https://docs.sciml.ai/DiffEqDocs/stable/) - Toolbox for solving different types of differential equations numerically. (Julia, MIT, [GitHub](https://github.com/SciML/DifferentialEquations.jl))
+- [JAX4J](https://github.com/nablatensor-dev/jax4j) - Tensor library with NumPy-style broadcasting, automatic differentiation, JIT compilation and optional GPU backends.
+  (Java 25, Apache 2.0, GitHub)
 
 ## Finite Elements
 
