@@ -172,6 +172,8 @@ them.
 - [TTK](https://topology-tool-kit.github.io/) - Topological data analysis and visualization.
   (C++/Python, BSD, [GitHub](https://github.com/topology-tool-kit/ttk))
 - [morphologica](https://github.com/ABRG-Models/morphologica) - Header-only, modern OpenGL code to visualize numerical simulations at runtime. (C++, Apache 2.0, GitHub)
+- [ParaViz](https://github.com/DimitriTimoz/paraviz) - ParaView-style 3D scientific visualization studio in Rust on WebGPU (wgpu), with native desktop app, in-browser WASM app, headless CLI and Python bindings. Reads VTK, OpenFOAM, CGNS, Exodus II, XDMF, NIfTI, DICOM and more, with 1-click HTML/GIF/GLB/PNG exports.
+  (Rust, MIT OR Apache-2.0, [GitHub](https://github.com/DimitriTimoz/paraviz))
 
 ## Other libraries and tools
 
