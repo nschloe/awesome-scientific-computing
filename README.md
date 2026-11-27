@@ -221,6 +221,8 @@ them.
 - [HPDDM](https://github.com/hpddm/hpddm) - High-performance unified framework for domain decomposition methods.
   (C++, LGPL 3, GitHub)
 
+- [BuildLang](https://github.com/HarperZ9/buildlang) - Deterministic effect-typed systems and GPU shader compiler with compiled numerical and simulation kernels. [Rust, AGPL-3.0-only, GitHub]
+
 ## Community
 
 - [SciComp StackExchange](https://scicomp.stackexchange.com/) - Computational Science on the StackExchange network.
